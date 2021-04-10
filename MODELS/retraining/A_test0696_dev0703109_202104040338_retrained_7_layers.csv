@@ -1,0 +1,1001 @@
+,sentence0,sentence1,pred_prob_scaled,pred_prob,pred,actual,correct,sent_sim,jaccard
+0,He loves to stroll at the park with his bed,He loves to stroll at the park with his dog.,0.48763160314410925,0.012368396855890751,0,0,True,0.817992627620697,0.8181818181818182
+1,The inverter was able to power the continent.,The inverter was able to power the house,0.31574489176273346,0.18425510823726654,0,0,True,0.7561272382736206,0.7777777777777778
+2,The chef put extra lemons on the pizza.,The chef put extra mushrooms on the pizza.,0.4777907356619835,0.02220926433801651,0,0,True,0.7456493973731995,0.7777777777777778
+3,sugar is used to make coffee sour,sugar is used to make coffee sweet,0.417350709438324,0.08264929056167603,0,0,True,0.9190866947174072,0.75
+4,There are beautiful flowers here and there in the garden,There are beautiful planes here and there in the garden,0.36513853073120117,0.8651385307312012,1,1,True,0.7528128623962402,0.8181818181818182
+5,"Once a pipe bursts, call a doctor.","Once a pipe bursts, call a plumber.",0.3463200330734253,0.8463200330734253,1,0,False,0.7914317846298218,0.7142857142857143
+6,Everyone hates paying taxes,Nobody hates paying taxes,0.10306990146636963,0.39693009853363037,0,1,False,0.9184101819992065,0.6
+7,all whales are small,whales are huge,0.427736334502697,0.07226366549730301,0,0,True,0.8287829756736755,0.4
+8,the boat enjoyed rolling in the mud,the pig enjoyed rolling in the mud,0.22197115421295166,0.7219711542129517,1,0,False,0.6516462564468384,0.7142857142857143
+9,Barbies are a fantastic desire for kids,Barbies are the horrible desire for kids,0.40068894624710083,0.9006889462471008,1,1,True,0.9280865788459778,0.5555555555555556
+10,The window looks out her,She looks out the window,0.4823601823300123,0.01763981766998768,0,0,True,0.850771427154541,0.42857142857142855
+11,crack addicts are addicted to chocolate milk,crack addicts are addicted to crack,0.46604475006461143,0.033955249935388565,0,0,True,0.8393515348434448,0.7142857142857143
+12,the generator was able to power the continent,the generator was able to power the house,0.47566513903439045,0.02433486096560955,0,0,True,0.7416347861289978,0.75
+13,Witches are not made of wood,Toads are not made of wood,0.08704662322998047,0.41295337677001953,0,1,False,0.7270534634590149,0.7142857142857143
+14,She went to the grocery store to get bananas.,She went to the grocery store to get an aneurysm.,0.06712186336517334,0.5671218633651733,1,1,True,0.600624680519104,0.7
+15,He pulled the covers over his head when he got into bed.,He pulled the water over his head when he got into bed.,0.43467603623867035,0.06532396376132965,0,1,False,0.8142733573913574,0.8461538461538461
+16,She is hypnotizing a book.,She is reading a book.,0.4952418338507414,0.004758166149258614,0,0,True,0.7574312686920166,0.6666666666666666
+17,Roberts' room is sleeping,Robert close he's eyes and he is sleeping in his room,0.03485909104347229,0.4651409089565277,0,0,True,0.5577400326728821,0.25
+18,Birds often fly south for the winter.,Birds like to stay in the same location all year long.,0.3481729328632355,0.15182706713676453,0,1,False,0.5853853821754456,0.125
+19,The boy ate a basketball,The boy ate a donut,0.34946954250335693,0.15053045749664307,0,0,True,0.6312752962112427,0.6666666666666666
+20,He put a pig into the pan,He put stake into the pan,0.47672778367996216,0.9767277836799622,1,0,False,0.6805367469787598,0.625
+21,A mouse is an input device.,waiting in line is for patient people,0.2531851977109909,0.2468148022890091,0,1,False,0.07522217184305191,0.08333333333333333
+22,humans never go to sleep,when tired humans go to sleep,0.22258231043815613,0.27741768956184387,0,0,True,0.6629893183708191,0.5714285714285714
+23,I can have a haircut at the pharmacy,I can buy medicine at the pharmacy,0.47647141478955746,0.023528585210442543,0,0,True,0.602763295173645,0.5
+24,There are four years each season.,There are four seasons each year.,0.2244463860988617,0.2755536139011383,0,0,True,0.8103631138801575,0.5
+25,The giraffe is riding the bicycle.,The young girl is riding the bicycle.,0.49497818341478705,0.005021816585212946,0,0,True,0.584877610206604,0.625
+26,I put on my sunglasses because it was a hot August day.,I put on my sunglasses because it was an overcast day.,0.38292505592107773,0.11707494407892227,0,1,False,0.7980276346206665,0.6428571428571429
+27,Kim is taking out the garbage.,Kim is dating the garbage.,0.49110478162765503,0.991104781627655,1,1,True,0.8100548386573792,0.5714285714285714
+28,A television plays video with audio.,A television plays audio only.,0.2699776887893677,0.7699776887893677,1,1,True,0.7489093542098999,0.375
+29,Rabbits are carnivores,Rabbits are herbivores,0.06504029035568237,0.4349597096443176,0,0,True,0.9415668845176697,0.5
+30,I put a bottle of milk into the fridge.,I put a car inside the fridge.,0.49749135971069336,0.9974913597106934,1,1,True,0.7340896129608154,0.45454545454545453
+31,Firetrucks are red.,Firetrucks are green,0.15098348259925842,0.3490165174007416,0,1,False,0.7453575134277344,0.5
+32,I prefer Amazon to shop online.,Amazon is the only place to shop online.,0.18540167808532715,0.31459832191467285,0,1,False,0.8152382373809814,0.4
+33,a letter carrier is a human,an aircraft carrier is a human,0.1323201060295105,0.6323201060295105,1,1,True,0.7835329174995422,0.5714285714285714
+34,Plastic is more expensive than gold.,Gold is more expensive than plastic.,0.2805577516555786,0.7805577516555786,1,0,False,0.9391595125198364,0.5
+35,The parrot flew onto the branch.,The branch ate the parrot.,0.42700403928756714,0.9270040392875671,1,1,True,0.8533698320388794,0.2222222222222222
+36,Today I ran two miles to burn a lot of calories to help me lose weight.,Today I ran three ice-creams to gain a lot of calories to help me lose weight.,0.3688010573387146,0.8688010573387146,1,1,True,0.8243809342384338,0.6666666666666666
+37,You do not need eyes to read a book.,You must have eyes to read a book.,0.018276512622833252,0.5182765126228333,1,0,False,0.8121027946472168,0.5454545454545454
+38,the dog is talking,the dog likes to run,0.3709145039319992,0.1290854960680008,0,0,True,0.6007742285728455,0.2857142857142857
+39,weathering is a hammer that breaks rock,rock is converted into the soil by weathering,0.22170597314834595,0.721705973148346,1,0,False,0.6008551120758057,0.25
+40,The sun sprays water on the planet,The sun shines light on the earth,0.4820471368730068,0.01795286312699318,0,0,True,0.5162076950073242,0.4
+41,people can need sleep,A reporter can press for an answer.,0.34699611365795135,0.15300388634204865,0,0,True,0.17456026375293732,0.1
+42,he wrote a great novel,he wrote a great hamburger,0.14791417121887207,0.6479141712188721,1,1,True,0.5986157655715942,0.6666666666666666
+43,If you're rich you can buy a yacht.,If you're poor you can buy a yacht.,0.017259538173675537,0.48274046182632446,0,1,False,0.8991354703903198,0.7777777777777778
+44,apple can be red or green,apple is a blue fruit,0.012120723724365234,0.48787927627563477,0,1,False,0.6034914255142212,0.1
+45,Giraffes have long necks.,Monkeys have long necks.,0.21591606736183167,0.28408393263816833,0,1,False,0.7039250731468201,0.6
+46,Tim went to the school this morning,Tim went to the school in the sky,0.41584640741348267,0.9158464074134827,1,1,True,0.8123182058334351,0.5555555555555556
+47,Brushes are for hair,Salsa is for hair,0.15599828958511353,0.6559982895851135,1,1,True,0.44392114877700806,0.3333333333333333
+48,Everyday I feed my dog some dog food.,Everyday I feed my dog some chocolate bars.,0.3334319144487381,0.1665680855512619,0,1,False,0.8025503158569336,0.6666666666666666
+49,My knee was scrapped and I put ointment on it.,My knee was scrapped and I put dirt on it.,0.1826503574848175,0.3173496425151825,0,1,False,0.846943199634552,0.8181818181818182
+50,Jeremy fetches the cans of soup from the cabinet.,Jeremy fetches a bull from the cabinet.,0.4862039089202881,0.9862039089202881,1,1,True,0.6070454120635986,0.5
+51,the TV is on right now,the TV is walking away,0.4585280418395996,0.9585280418395996,1,1,True,0.6504839062690735,0.375
+52,Something you find at a hotel is an elevator,Something you find at a hotel is n cow shelter,0.4303628206253052,0.9303628206253052,1,1,True,0.5534461736679077,0.5833333333333334
+53,He purchased chemical and cement to prepare a sandwich for dinner,He purchased breads and vegetables to prepare a sandwich for dinner,0.45941564440727234,0.04058435559272766,0,0,True,0.7614536285400391,0.6923076923076923
+54,i am going are computer buy on mobile shop,i am going are computer buy on Acer store,0.3401479721069336,0.8401479721069336,1,0,False,0.6609805822372437,0.6363636363636364
+55,Humans wrote the bible about god,God lives physically on earth,0.2019456923007965,0.2980543076992035,0,1,False,0.49220937490463257,0.0
+56,A family do not need a house.,A house is a shelter for the family.,0.2884823679924011,0.21151763200759888,0,0,True,0.6639730930328369,0.15384615384615385
+57,We need plants to survive.,We need fire to survive.,0.4568841829895973,0.04311581701040268,0,1,False,0.692546546459198,0.6666666666666666
+58,he was given sweets as he passed the exam,he was given sweets as he failed the exam,0.09343382716178894,0.40656617283821106,0,1,False,0.9104275703430176,0.7777777777777778
+59,the amazon rainforest contains many undiscovered species,the Amazon rainforest does not have any animals on it,0.2525196373462677,0.2474803626537323,0,1,False,0.7728341817855835,0.13333333333333333
+60,He filled his Car Tank with Gasoline.,He filled his Car Tank with  water.,0.26618003845214844,0.7661800384521484,1,1,True,0.8156825304031372,0.75
+61,They stored food in the fridge in summer,They stored food in the ground in summer,0.17428404092788696,0.32571595907211304,0,1,False,0.8430131673812866,0.75
+62,dogs can live underwater,shrimps can live underwater,0.44065477699041367,0.059345223009586334,0,0,True,0.6596130132675171,0.6
+63,the family adopted a dinosaur to be their new pet,the family adopted a dog to be their new pet,0.46623459458351135,0.03376540541648865,0,0,True,0.8045530915260315,0.8181818181818182
+64,Something you find at a home is a t.v.,Something you find at the road is a t.v.,0.35688459873199463,0.8568845987319946,1,1,True,0.755685567855835,0.7
+65,Mowing the lawn requires zero people to accomplish the task.,Mowing the lawn requires peoples to accomplish the task.,0.06040829420089722,0.4395917057991028,0,0,True,0.8804519176483154,0.7
+66,It is hard to see the stars at night in places with air pollution.,It is easy to see the stars on a clear day.,0.3515545427799225,0.14844545722007751,0,1,False,0.6092625260353088,0.3157894736842105
+67,she sipped a coffee,she sipped a shoe,0.4470089077949524,0.9470089077949524,1,1,True,0.6356648206710815,0.6
+68,Helicopters land without runways.,Helicopters can speak English,0.29160767793655396,0.791607677936554,1,1,True,0.4475255012512207,0.14285714285714285
+69,A normal person has 4 arms,A normal person has two arms,0.003274977207183838,0.5032749772071838,1,0,False,0.8572885990142822,0.7142857142857143
+70,I finished my studies at school,I finished my studies inside the sewer,0.4397048354148865,0.9397048354148865,1,1,True,0.7044011354446411,0.4444444444444444
+71,I love to eat,Eating loves me,0.40225279331207275,0.9022527933120728,1,1,True,0.5884237289428711,0.0
+72,The sun comes out at night,The sun is bigger than the earth,0.10328832268714905,0.39671167731285095,0,0,True,0.5662854909896851,0.18181818181818182
+73,You can use your eyes to see,You can use your eyes to eat,0.29841023683547974,0.7984102368354797,1,1,True,0.7906375527381897,0.75
+74,onions are grown under the ground,onions are grown in the tree,0.015253990888595581,0.4847460091114044,0,1,False,0.8387007713317871,0.5
+75,Television is a form of news.,You can open a jar with your teeth.,0.0072768330574035645,0.5072768330574036,1,1,True,0.0568554550409317,0.07692307692307693
+76,Milk that is drunk by humans is white,Beer that is drunk by humans is white,0.38689232617616653,0.11310767382383347,0,1,False,0.7704362273216248,0.75
+77,You should leave the lights on when you leave the room.,You should turn the lights off when you leave the room.,0.39126836508512497,0.10873163491487503,0,0,True,0.9333853125572205,0.7272727272727273
+78,You can dance anywhere.,You can dance in your own room,0.15774446725845337,0.6577444672584534,1,0,False,0.7015320062637329,0.375
+79,A train is used for sailing,A train is used for traveling,0.49495581863448024,0.005044181365519762,0,0,True,0.792467474937439,0.7142857142857143
+80,The boy wore his new shoes on his back.,The boy wore his new shoes on his feet.,0.2742110639810562,0.2257889360189438,0,0,True,0.9301897287368774,0.7777777777777778
+81,He prays before sleeping.,He drinks energy drinks before sleeping,0.025383949279785156,0.5253839492797852,1,1,True,0.44741714000701904,0.2857142857142857
+82,I use grass to cut my lawnmower.,I use a lawnmower to cut my grass.,0.4786192625761032,0.02138073742389679,0,0,True,0.9552257657051086,0.5
+83,the owner of the restaurant apologized for the good customer service,the owner of the restaurant apologized for the terrible customer service,0.36345191299915314,0.13654808700084686,0,0,True,0.954541802406311,0.8
+84,she eats an egg for breakfast every day,she eats a table for breakfast every day,0.4782707095146179,0.9782707095146179,1,1,True,0.8042370676994324,0.6
+85,Molly turned the AC on,Molly ordered the AC on,0.4055470824241638,0.9055470824241638,1,1,True,0.9010094404220581,0.6666666666666666
+86,the comedian performed magic tricks,the comedian made some jokes,0.48235380090773106,0.017646199092268944,0,0,True,0.5888478755950928,0.25
+87,SHE EAT A MOBILE PHONE,SHE eats AN APPLE,0.4631376937031746,0.03686230629682541,0,0,True,0.5357804894447327,0.125
+88,Dolphins are fish.,Dolphins are mammals.,0.48164095915853977,0.018359040841460228,0,0,True,0.8819347620010376,0.5
+89,"in summers, always the weather is rainy.","in summers, always the weather is cold.",0.21327438950538635,0.28672561049461365,0,1,False,0.8176723122596741,0.75
+90,The flowers bloomed in the spring.,The animals bloomed in the spring,0.24967965483665466,0.25032034516334534,0,1,False,0.7646862268447876,0.5
+91,The stone can float on the water,The wood can float on the water,0.4146256297826767,0.0853743702173233,0,0,True,0.7307610511779785,0.75
+92,He hide his shoes in the closet.,He hide a lion in the closet.,0.4690283536911011,0.9690283536911011,1,1,True,0.6352864503860474,0.5555555555555556
+93,A soldier fired with a revolver.,A soldier shot with a guitar.,0.3473188281059265,0.8473188281059265,1,1,True,0.5784709453582764,0.5
+94,Breakfast is eating during the night.,Breakfast is eaten in the morning.,0.4466532729566097,0.053346727043390274,0,0,True,0.7923334836959839,0.3333333333333333
+95,It is easy to find seashells in the forest,It is easy to find seashells by the ocean,0.45981694385409355,0.04018305614590645,0,0,True,0.7772191762924194,0.6363636363636364
+96,She went to college to learn how to drive a car,She went to college to get a degree in criminology,0.16842800378799438,0.3315719962120056,0,0,True,0.6157550811767578,0.38461538461538464
+97,He wants to fly.,He can fly.,0.04256844520568848,0.5425684452056885,1,1,True,0.8107523918151855,0.4
+98,The library is on a street corner downtown,The library is under a river downtown,0.4519116282463074,0.9519116282463074,1,1,True,0.7870907783508301,0.5
+99,short is life,Life is short,0.2936326712369919,0.20636732876300812,0,0,True,0.8406017422676086,0.5
+100,Water is not healthy.,"Water is a clear, colorless, odorless and tasteless liquid.",0.4327790141105652,0.06722098588943481,0,0,True,0.42734354734420776,0.18181818181818182
+101,a correct diet is good for your health,eating trash food every day makes you stronger,0.1534562110900879,0.6534562110900879,1,1,True,0.41025078296661377,0.0
+102,People like to eat land,People like to eat pizza,0.4860904272645712,0.01390957273542881,0,0,True,0.5894712209701538,0.6666666666666666
+103,Readers read fiction novels to immerse themselves in the author's fictitious world.,The reality readers live in is the same as the fictitious worlds authors create in fiction novels.,0.16283300518989563,0.33716699481010437,0,1,False,0.7416964769363403,0.17391304347826086
+104,He rides rockets all days,He rides a bike all days,0.4121553376317024,0.08784466236829758,0,0,True,0.701019287109375,0.5714285714285714
+105,Boats float on water.,Planes float on water.,0.12350156903266907,0.37649843096733093,0,1,False,0.8395239114761353,0.6
+106,I can lit a car,I can lift a trash can.,0.48442208766937256,0.9844220876693726,1,0,False,0.4333665370941162,0.375
+107,if you want to relax then you should go lie down,standing up for long hours is relaxing,0.24207013845443726,0.25792986154556274,0,1,False,0.45618224143981934,0.0
+108,A stove sits on a pan,A pan sits on a stove.,0.40736399590969086,0.09263600409030914,0,0,True,0.9734492301940918,0.7142857142857143
+109,I would like to fry a laptop,I would like to buy a laptop,0.4921430116519332,0.007856988348066807,0,0,True,0.720702588558197,0.75
+110,The goldfish ate a cat.,The cat ate a goldfish.,0.2632685899734497,0.2367314100265503,0,0,True,0.9354531764984131,0.42857142857142855
+111,I put the leftover food in the fridge.,I put the leftover food in the oven.,0.45366617664694786,0.04633382335305214,0,1,False,0.799921452999115,0.75
+112,Lasagna is often eaten during movies.,Popcorn is often eaten during movies.,0.3913019448518753,0.1086980551481247,0,0,True,0.5648049712181091,0.7142857142857143
+113,You are more likely to overeat on a full stomach.,You are more likely to overeat on an empty stomach.,0.4068899601697922,0.09311003983020782,0,0,True,0.9052783250808716,0.6666666666666666
+114,the car had a significant amount of rust,the cow had a significant amount of rust,0.20580029487609863,0.7058002948760986,1,1,True,0.7141113877296448,0.7777777777777778
+115,She turned the light off.,She turned the sun off.,0.2731455862522125,0.22685441374778748,0,1,False,0.7206099033355713,0.6666666666666666
+116,I need to heat up some water using the refrigerator,I need to heat up some water using the microwave,0.4529031775891781,0.047096822410821915,0,0,True,0.7582901120185852,0.8181818181818182
+117,The bird rented a room,The bird is tired,0.33291853964328766,0.16708146035671234,0,0,True,0.5213502645492554,0.2857142857142857
+118,he won the lottery,he always wins the lottery,0.33727143704891205,0.16272856295108795,0,1,False,0.8172322511672974,0.5
+119,The McLaren is a well-designed vehicle.,The apple is a well-designed vehicle.,0.2985931634902954,0.7985931634902954,1,1,True,0.5681126713752747,0.7142857142857143
+120,people usually have their lunch in the morning,people usually have their dinner at night,0.07310891151428223,0.4268910884857178,0,0,True,0.6939328908920288,0.36363636363636365
+121,The man slipped on the banana skin,The man slipped on the gentle breeze,0.309579074382782,0.19042092561721802,0,1,False,0.41081130504608154,0.5555555555555556
+122,the murder case remained unsolved,the murder case remained a happy event,0.225982666015625,0.725982666015625,1,1,True,0.7388740181922913,0.5
+123,He went to a petrol station to write the exam,He went to the examination hall to write the exam,0.48359848372638226,0.016401516273617744,0,0,True,0.6983214020729065,0.5454545454545454
+124,only eating fried food makes your diet healthier,eating vegetables is a healthy part of your diet,0.49104677233844995,0.008953227661550045,0,0,True,0.7041013836860657,0.21428571428571427
+125,Amazon has gone bankrupt,Amazon is a big company,0.47226041927933693,0.02773958072066307,0,0,True,0.6837667226791382,0.125
+126,her favorite organ is the kidney,her favorite organ is the telephone,0.030858635902404785,0.5308586359024048,1,1,True,0.7697954177856445,0.7142857142857143
+127,The man went to the doctor because his back hurt,The man went to the doctor because he needed to buy bread,0.22807365655899048,0.7280736565589905,1,1,True,0.6760793924331665,0.5
+128,Fish swim in sand.,Fish swim in water.,0.49398774188011885,0.006012258119881153,0,0,True,0.7583387494087219,0.6
+129,cake is not poisonous,lead is not poisonous,0.2196408212184906,0.2803591787815094,0,1,False,0.6115411520004272,0.6
+130,He put the cat in the fridge,He put an orange in the fridge,0.49301875615492463,0.006981243845075369,0,0,True,0.6453389525413513,0.625
+131,To be a doctor you must only obtain the faith and trust of your patients.,To be a doctor you must go to school for several years and earn a Ph.D.,0.07072260975837708,0.4292773902416229,0,0,True,0.5007718205451965,0.30434782608695654
+132,he put a person on the back and his bike,he put a giraffe on the back of his bike,0.2724824547767639,0.7724824547767639,1,1,True,0.6236209273338318,0.6666666666666666
+133,War is a good thing and benefits everyone.,War is evil.,0.22428107261657715,0.27571892738342285,0,0,True,0.6688251495361328,0.2222222222222222
+134,graphs have been known to cause cancer,graphs can track numeric information,0.3586832731962204,0.1413167268037796,0,0,True,0.4487844407558441,0.09090909090909091
+135,The worm swallowed the bird.,The bird swallowed the worm.,0.23571079969406128,0.2642892003059387,0,0,True,0.9773213863372803,0.42857142857142855
+136,he put some cooking oil in his wine,he put some ice in his wine,0.014100492000579834,0.48589950799942017,0,0,True,0.6413131952285767,0.6666666666666666
+137,I'saw a bird on the bike,I saw an elephant on a bicycle.,0.4472547769546509,0.9472547769546509,1,1,True,0.48655080795288086,0.18181818181818182
+138,the bird flew away,the cow flew away,0.20112395286560059,0.7011239528656006,1,1,True,0.6339712142944336,0.6
+139,the TV program entertains the fish,the TV program entertains many people,0.47526285238564014,0.024737147614359856,0,0,True,0.6051057577133179,0.5714285714285714
+140,Jerry has orange serfs with flamingos printed on them.,Jerry has orange undies with flamingos printed on them.,0.048892438411712646,0.5488924384117126,1,0,False,0.8196773529052734,0.8
+141,His glasses are blurry so he wipes them clean,His glasses are clear so he wipes them clean,0.04646909236907959,0.5464690923690796,1,1,True,0.9452565908432007,0.8
+142,Zebra swim in the water,Fish swim in the water,0.49493186734616756,0.005068132653832436,0,0,True,0.7044565081596375,0.6666666666666666
+143,he went for a walk in the woods and was bitten by a shark,he went for a walk in the woods and tripped on a rock,0.47457252629101276,0.025427473708987236,0,0,True,0.6293681859970093,0.5625
+144,Some chocolate bars are molded metal.,Some bars are molded metal.,0.2551444321870804,0.24485556781291962,0,0,True,0.8397724032402039,0.8333333333333334
+145,He puts the monkeys in the cup.,He puts coffee into the cup.,0.49412019131705165,0.005879808682948351,0,0,True,0.6508147120475769,0.5
+146,The washing machine cleaned the dirty clothes,The refrigerator cleaned the dirty clothes,0.47753387689590454,0.9775338768959045,1,1,True,0.7628425359725952,0.625
+147,An apple took a bite out of him.,He took a bite of an apple.,0.4879185175523162,0.012081482447683811,0,0,True,0.8458068370819092,0.36363636363636365
+148,He put a car into a fridge,He put butter into a fridge,0.4617094285786152,0.03829057142138481,0,0,True,0.7763174772262573,0.7142857142857143
+149,Winter is a good time to wear short dresses.,people usually wear a coat in the winter,0.46404994279146194,0.035950057208538055,0,0,True,0.509651780128479,0.13333333333333333
+150,A duck is floating in the pond.,An anvil is floating in the pond.,0.00041919946670532227,0.4995808005332947,0,1,False,0.672376275062561,0.5555555555555556
+151,He rides his bike.,He rides his apple.,0.4803008437156677,0.9803008437156677,1,1,True,0.7230900526046753,0.6
+152,It usually snows in Cuba,It usually snows in New England,0.16589829325675964,0.33410170674324036,0,0,True,0.501064121723175,0.5714285714285714
+153,The park ran to him,He ran to the park,0.4836869593709707,0.016313040629029274,0,0,True,0.8317558765411377,0.42857142857142855
+154,he swapped a Corvette engine into a honda s2000,he put a semi-truck engine in the s2000,0.3081330507993698,0.1918669492006302,0,1,False,0.7837477922439575,0.3333333333333333
+155,The zookeeper feeds the animals.,Zookeeper is working at the hospital,0.45012587308883667,0.9501258730888367,1,1,True,0.5526328086853027,0.1
+156,The boy broke his tooth on a mango pit.,The boy broke his tooth on a banana pit.,0.14346694946289062,0.3565330505371094,0,1,False,0.8264648914337158,0.8
+157,He wrote a book using his hands.,He wrote a book by signing,0.09270244836807251,0.5927024483680725,1,1,True,0.7063860893249512,0.4444444444444444
+158,winter comes in the same time each year,winter comes in different time each year,0.22603446245193481,0.2739655375480652,0,0,True,0.8662207126617432,0.6666666666666666
+159,he likes to lay video games.,The video game ran away.,0.3460182547569275,0.8460182547569275,1,1,True,0.3687095046043396,0.1
+160,Hair can be cut at the pharmacy.,Medicine is sold at the pharmacy.,0.47534201480448246,0.02465798519551754,0,0,True,0.5208685398101807,0.3
+161,when it is hot humidity forms,when it rains humidity forms,0.2690805196762085,0.2309194803237915,0,0,True,0.7994757890701294,0.5714285714285714
+162,Snowmen are made of snow.,Snowmen are made of sand.,0.4070333242416382,0.9070333242416382,1,1,True,0.7836946249008179,0.6666666666666666
+163,he put the ice cream inside the fridge,he put the house into the fridge,0.4570416808128357,0.9570416808128357,1,1,True,0.7715092301368713,0.4444444444444444
+164,The man is in front of the city hall,City Hall adjusted to man's view,0.25750821828842163,0.7575082182884216,1,1,True,0.5988436937332153,0.0
+165,she drove a car,she drove a pencil,0.4157066345214844,0.9157066345214844,1,1,True,0.6906241178512573,0.6
+166,I enter in a car,I enter in a bottle,0.022829830646514893,0.5228298306465149,1,1,True,0.6566645503044128,0.6666666666666666
+167,she eats an orange after her workout,she eats a pillow after her workout,0.48980802297592163,0.9898080229759216,1,1,True,0.7182871103286743,0.5555555555555556
+168,It is cold and hot outside,It is cold outside,0.3650539964437485,0.13494600355625153,0,0,True,0.7620407342910767,0.6666666666666666
+169,The girl broke her lamp while ice skating.,The girl broke her arm while ice skating.,0.42421941459178925,0.07578058540821075,0,0,True,0.857349157333374,0.7777777777777778
+170,It is good to drink milk at night,It is good to drink saltwater at night,0.31888246536254883,0.18111753463745117,0,1,False,0.6189764738082886,0.7777777777777778
+171,The boy won the race with a cheetah,The boy won the race with his friends,0.03576281666755676,0.46423718333244324,0,0,True,0.6877415180206299,0.6
+172,A home gives a person a sense of security,A home is a place for violence.,0.20699948072433472,0.7069994807243347,1,1,True,0.44735610485076904,0.25
+173,I hung a horse in my hallway.,I hung a painting of a horse in my hallway.,0.019510656595230103,0.4804893434047699,0,0,True,0.8397902250289917,0.7777777777777778
+174,Lobsters live in the ocean,Lobsters live in the mountains,0.3640475273132324,0.8640475273132324,1,1,True,0.8127121329307556,0.6666666666666666
+175,Children go to school to learn,Children go to school to laugh,0.32890549302101135,0.17109450697898865,0,1,False,0.6973909735679626,0.6666666666666666
+176,She flew to church in her new car,She drove to church in her new car,0.3243667632341385,0.1756332367658615,0,0,True,0.9032666683197021,0.7777777777777778
+177,Blackberries and strawberries are berries.,Blackberries and strawberries are the same.,0.0831511914730072,0.4168488085269928,0,1,False,0.9005423188209534,0.5714285714285714
+178,The ocean consists of saltwater.,Freshwater fish can live in the ocean.,0.4853993132710457,0.014600686728954315,0,1,False,0.49728843569755554,0.0
+179,The men are mowing the lawn because the grass is getting long.,The men are mowing the lawn because it is raining.,0.0540124773979187,0.4459875226020813,0,1,False,0.8118981122970581,0.6153846153846154
+180,I took three Tylenol tablets to cure my headache.,I took 300 Tylenol tablets to cure my headache.,0.315515860915184,0.18448413908481598,0,1,False,0.9383761286735535,0.8
+181,Wheels are delicious for human taste,Chickens are delicious for human taste,0.29579657316207886,0.20420342683792114,0,0,True,0.5158205628395081,0.7142857142857143
+182,CNN covers the news,CNN is for sports,0.018518269062042236,0.48148173093795776,0,1,False,0.7834392786026001,0.14285714285714285
+183,Going to a place that is too far to walk to requires other means of transportation,Going to a place that is too far to walk requires good tennis.,0.15354549884796143,0.6535454988479614,1,1,True,0.6020121574401855,0.625
+184,She walks to the school everyday morning,She flies to the school everyday morning,0.24299293756484985,0.7429929375648499,1,1,True,0.8104624152183533,0.75
+185,"That morning, Kate had dinner and left for work","That morning, Kate had breakfast and left for work",0.45054637640714645,0.049453623592853546,0,0,True,0.8898548483848572,0.8
+186,The wind pushes the tree upright,The wind blows over a tree,0.4610196426510811,0.038980357348918915,0,0,True,0.7672525644302368,0.3333333333333333
+187,A clown is in a circus,Circuses only have animals,0.3998507559299469,0.1001492440700531,0,1,False,0.37430456280708313,0.0
+188,people can write what they heard,You need to see to write on paper.,0.13669660687446594,0.36330339312553406,0,1,False,0.36119186878204346,0.08333333333333333
+189,the child plays video games,the chair plays video games,0.42077165842056274,0.9207716584205627,1,1,True,0.7396010160446167,0.6666666666666666
+190,social networks are for humans and robots,robots are omniscient such as humans,0.3118511885404587,0.18814881145954132,0,1,False,0.5771116018295288,0.3
+191,A COW EAT A GRASS,A COW EAT A MOUNTAIN,0.4619295001029968,0.9619295001029968,1,1,True,0.8254523277282715,0.6
+192,you can find fish in lakes,You can only find fish in the ocean,0.41808008402585983,0.08191991597414017,0,1,False,0.6643826961517334,0.4
+193,cars can be used for road drives,Boats can be used for road drives,0.3338327556848526,0.1661672443151474,0,1,False,0.745911717414856,0.75
+194,My sister is a female,My sister is a male,0.20397800207138062,0.2960219979286194,0,1,False,0.9473471641540527,0.6666666666666666
+195,The fish live in rivers.,the fish live in computers.,0.48679184913635254,0.9867918491363525,1,1,True,0.7041798830032349,0.42857142857142855
+196,he put a bird in the cage,he put a horse in the cage,0.028294682502746582,0.5282946825027466,1,1,True,0.7865427732467651,0.75
+197,All that is born must eventually die.,I will never die.,0.10421550273895264,0.6042155027389526,1,1,True,0.3735587000846863,0.1
+198,Whales can swim,Whales can fly,0.1918850541114807,0.3081149458885193,0,1,False,0.8137344717979431,0.5
+199,"When people cry,  tears come out of their ears","When people cry,  tears come out of their eyes",0.35348331928253174,0.14651668071746826,0,0,True,0.9082786440849304,0.8
+200,There is a car in her purse,She put her purse in the front seat of the car,0.4882311997935176,0.01176880020648241,0,0,True,0.6888331770896912,0.3076923076923077
+201,The phone turned off because it ran out of battery power.,The human died because it ran out of juice.,0.08440834283828735,0.5844083428382874,1,1,True,0.49093684554100037,0.42857142857142855
+202,the lion likes ice cream,The kid likes ice cream,0.4680219665169716,0.03197803348302841,0,0,True,0.6999830007553101,0.42857142857142855
+203,You are likely to find sandals in a shoe shop,You are likely to find Rice bags in a shoe shop,0.060374438762664795,0.4396255612373352,0,1,False,0.6446810960769653,0.75
+204,"After cutting my hair, the barber swept up hair that had fallen to the floor.","After cutting my hair, the barber shoveled snow that had fallen on the floor",0.29612982273101807,0.7961298227310181,1,1,True,0.8223954439163208,0.5
+205,The boy sucked on the popsicle with his mouth.,The boy sucked on the popsicle with his nostril.,0.32995906472206116,0.17004093527793884,0,1,False,0.8470754623413086,0.8
+206,People may consider you rude if you do not say please when asking for something.,People may consider you polite if you do not say please when asking for something.,0.13222050666809082,0.6322205066680908,1,1,True,0.9037131071090698,0.8666666666666667
+207,He put on blue pants,He put his pants on a horse,0.1131594181060791,0.6131594181060791,1,1,True,0.4818544387817383,0.5
+208,A congressman is well-payed,A scholar is well-payed,0.2640905976295471,0.23590940237045288,0,1,False,0.4836520254611969,0.6
+209,Cats walk on all four legs,Cats are bipedal creatures,0.36644308269023895,0.13355691730976105,0,1,False,0.692365288734436,0.1111111111111111
+210,the clock shows animals,the clock shows the correct time,0.4349961280822754,0.06500387191772461,0,0,True,0.6332838535308838,0.5
+211,he had a pair of air jordans for basketball game,he had Michael Jordan at the game,0.26443006098270416,0.23556993901729584,0,1,False,0.6809557676315308,0.21428571428571427
+212,He sent some messages from the WhatsApp mobile application by his shoes,He sent some messages from the WhatsApp mobile application by his mobile,0.46772364526987076,0.03227635473012924,0,0,True,0.9277734756469727,0.9166666666666666
+213,A teacher is writing in the board by sack piece,A teacher is writing in the board by Blade,0.30783534049987793,0.8078353404998779,1,1,True,0.7798277735710144,0.7272727272727273
+214,A stop sign is always red,A stop sign is always white,0.26915258169174194,0.7691525816917419,1,1,True,0.8504115343093872,0.7142857142857143
+215,Abuse is good and fun,She doesn't like being abused,0.189689040184021,0.689689040184021,1,0,False,0.5897615551948547,0.0
+216,People need fruit to live,Fruit needs people to live,0.34008800983428955,0.8400880098342896,1,1,True,0.8686760067939758,0.25
+217,she was met with an accident and was rushed to the library,she was met with an accident and was rushed to the hospital,0.38434308767318726,0.11565691232681274,0,0,True,0.7779399752616882,0.8333333333333334
+218,Coffee is made from beans,Orange juice is made from beans,0.3750201612710953,0.12497983872890472,0,1,False,0.6350265145301819,0.5714285714285714
+219,He opened the bottle to read it,He opened the book to read it.,0.49570239800959826,0.004297601990401745,0,0,True,0.7134369015693665,0.5555555555555556
+220,I am going for my family tour in one cycle,I am going for my family tour on one bus,0.4302999973297119,0.9302999973297119,1,0,False,0.697166919708252,0.6666666666666666
+221,he fed boulders to the monkey,he fed bananas to the monkey,0.4662666469812393,0.03373335301876068,0,0,True,0.7531833052635193,0.7142857142857143
+222,Reading a book is a great way to go on a journey without leaving your home.,"Read a book and you'll be thrown into a world of lions, witches, and wardrobes, and have to fight for your life!",0.4389042258262634,0.9389042258262634,1,1,True,0.38302645087242126,0.13793103448275862
+223,She saw a boat flying over the river,She saw a boat in the river,0.4858467550948262,0.014153244905173779,0,0,True,0.9193329811096191,0.6666666666666666
+224,"the dog growled, then charged the boy","the dog growled, then taught the boy",0.07212728261947632,0.4278727173805237,0,1,False,0.857201337814331,0.7142857142857143
+225,Restaurants are places to order food,Restaurants are places to cook your dinner.,0.4329960346221924,0.06700396537780762,0,1,False,0.7126214504241943,0.4444444444444444
+226,The child studied a lot to take a test.,The child studied a lot to open a door.,0.37536144256591797,0.875361442565918,1,1,True,0.6052736639976501,0.6
+227,he put a bear into a pot,he put a flower into a pot,0.4959646794013679,0.004035320598632097,0,0,True,0.6924500465393066,0.7142857142857143
+228,The protein bar ate me,I ate a protein bar,0.34965357184410095,0.15034642815589905,0,0,True,0.8132596015930176,0.42857142857142855
+229,My child likes to wear her bathing suit to school.,My child likes to wear her red dress to school.,0.17764464020729065,0.32235535979270935,0,0,True,0.7395944595336914,0.6363636363636364
+230,Anthony decided that he will kick the warm glass of water to the fridge.,Anthony concluded that he will put the warm glass of water in the fridge.,0.4008243978023529,0.0991756021976471,0,0,True,0.9039170742034912,0.625
+231,People can breathe in outer space without any mechanical aid or protection.,People can breathe on earth without any mechanical aid or protection.,0.03073728084564209,0.5307372808456421,1,0,False,0.8636606931686401,0.6428571428571429
+232,my son has two big hands,my son has four big hands,0.30775801837444305,0.19224198162555695,0,1,False,0.9061380624771118,0.7142857142857143
+233,detergents are used to clean clothes,detergents are used in an investigation,0.05498701333999634,0.44501298666000366,0,1,False,0.5592238903045654,0.3333333333333333
+234,she put the salad in the bowl,she put the cat in the bowl,0.399458110332489,0.899458110332489,1,1,True,0.656400203704834,0.7142857142857143
+235,she put water in the freezer,she put the giraffe in the freezer,0.4444392919540405,0.9444392919540405,1,1,True,0.6314857602119446,0.7142857142857143
+236,relatives bark at the dog,my dog barks at relatives,0.3786008134484291,0.12139918655157089,0,0,True,0.6876999139785767,0.42857142857142855
+237,She put some money in the oven.,She put a fish in the oven.,0.4652872085571289,0.034712791442871094,0,0,True,0.7769708633422852,0.5555555555555556
+238,He shucked and oyster,He shucked a fish,0.09885674715042114,0.40114325284957886,0,1,False,0.4707992672920227,0.3333333333333333
+239,The pen ran out of ink,the ink ran out of the pen,0.11244642734527588,0.3875535726547241,0,1,False,0.9635429382324219,0.7142857142857143
+240,My heater gets very hot,My heater cools a lot,0.054138779640197754,0.5541387796401978,1,1,True,0.8356335759162903,0.25
+241,I STOLE A BLUE CORVETTE,I STOLE A RED CAR,0.39890146255493164,0.8989014625549316,1,0,False,0.7047759890556335,0.42857142857142855
+242,She is too timid so she loves to watch horror movies,She is too timid to watch horror movies,0.42376021295785904,0.07623978704214096,0,0,True,0.9143569469451904,0.7272727272727273
+243,boys wear bra to provide support to their breasts,girls wear a bra to provide support to their breasts,0.24938079714775085,0.25061920285224915,0,0,True,0.9078631401062012,0.7
+244,The waterfall provided the children with an exciting slide down the rock.,The waterfall flowed up sending the children to the top of the rock.,0.3125496059656143,0.18745039403438568,0,1,False,0.8140997886657715,0.29411764705882354
+245,Joe wanted something to eat. He decided to drink a soccer ball.,Joe wanted something to eat. He decided to eat pizza.,0.4972953211981803,0.002704678801819682,0,0,True,0.724547266960144,0.5384615384615384
+246,the dog gave birth to puppies,the dog gave birth to hotdogs,0.3721224069595337,0.8721224069595337,1,1,True,0.7078818082809448,0.7142857142857143
+247,Basketball is played with the feet,Soccer is played with the feet,0.4443041682243347,0.9443041682243347,1,0,False,0.743229866027832,0.7142857142857143
+248,he swims 1km each way every day,he swims with piranhas,0.24043160676956177,0.7404316067695618,1,1,True,0.37184953689575195,0.2222222222222222
+249,Flowers only need dirt to grow and nothing else.,Flowers need sunlight to grow.,0.367573082447052,0.132426917552948,0,0,True,0.6623611450195312,0.2727272727272727
+250,dolphins are fast to fly,dolphins are fast to swim,0.3900907188653946,0.10990928113460541,0,0,True,0.8545188903808594,0.6666666666666666
+251,We bought a painting from the farmer.,We bought fresh corn from the farmer.,0.494435821659863,0.005564178340137005,0,0,True,0.5997613668441772,0.5555555555555556
+252,she put the car in the dog,she put the dog in the car,0.2595375329256058,0.24046246707439423,0,0,True,0.9756596684455872,1.0
+253,going to the gym is a healthy habit,going to the gym does not help you stay healthy,0.23732367157936096,0.26267632842063904,0,1,False,0.7383362650871277,0.38461538461538464
+254,Japan is the main currency used in Yen.,Yen is the main currency used in Japan.,0.4734237864613533,0.026576213538646698,0,0,True,0.9353480339050293,0.6
+255,Water quenches thirst.,Salt quenches thirst.,0.40987420827150345,0.09012579172849655,0,1,False,0.7496707439422607,0.5
+256,I tied my shoelaces with both hands,I tied my shoelaces with my shoulders,0.22499024868011475,0.27500975131988525,0,1,False,0.8192345499992371,0.625
+257,Something you find in a desk is tigers.,Something you find in a desk is highlighters.,0.12155252695083618,0.6215525269508362,1,0,False,0.683379054069519,0.7777777777777778
+258,He visited a doctor to cure his sickness,He went to a lawyer to cure his sickness,0.26716941595077515,0.7671694159507751,1,1,True,0.7232675552368164,0.6
+259,The bottle drunk out of the baby.,The baby drunk out of the bottle.,0.4250643253326416,0.9250643253326416,1,0,False,0.9675239324569702,0.5555555555555556
+260,Most cars run on gasoline,Most kangaroos run on gasoline,0.39556223154067993,0.8955622315406799,1,1,True,0.6672449111938477,0.6666666666666666
+261,Swimming is a common winter activity,Swimming is a common summer activity,0.4570752829313278,0.04292471706867218,0,0,True,0.8717905282974243,0.7142857142857143
+262,the man took his suit to the dry cleaner,the man took his door to the dry cleaner,0.45886921882629395,0.958869218826294,1,1,True,0.8145015239715576,0.7777777777777778
+263,Mike got a new stove,The stove walk to the fire,0.4379621148109436,0.9379621148109436,1,1,True,0.31905579566955566,0.1
+264,the cow eats the bike,the cow eats the grass,0.3146648705005646,0.18533512949943542,0,0,True,0.7718468308448792,0.6
+265,all watermelons have water,all watermelons have seeds,0.32599571347236633,0.17400428652763367,0,1,False,0.7966879606246948,0.6
+266,Schools often have a mathematics department,Schools often have operation theater,0.42963337898254395,0.929633378982544,1,1,True,0.5383092164993286,0.375
+267,She put water in a cage,She put a mouse in a cage.,0.4581157900393009,0.04188420996069908,0,0,True,0.6282303333282471,0.5
+268,Cars stop at a red light.,Cars stop at a green light.,0.3287166953086853,0.1712833046913147,0,1,False,0.823684811592102,0.7142857142857143
+269,A cat dropped from a plane wearing a parachute will land on the tip of its' tail.,A cat dropped from a plane wearing a parachute will land on its' feet.,0.19648241996765137,0.6964824199676514,1,0,False,0.9157411456108093,0.7058823529411765
+270,He runs his heater when it's hot outside,He runs his air conditioner when it's hot outside,0.08298933506011963,0.41701066493988037,0,0,True,0.7870862483978271,0.7
+271,Sweating is a body mechanism to look cool,Sweating is a body mechanism to cool down,0.18224358558654785,0.6822435855865479,1,0,False,0.8618779182434082,0.7777777777777778
+272,every person take stones for breakfast,every person take food for breakfast,0.4075215831398964,0.09247841686010361,0,0,True,0.7132959365844727,0.7142857142857143
+273,I put clothes into the washing machine.,I put bricks into the washing machine.,0.3506956696510315,0.8506956696510315,1,1,True,0.7956076264381409,0.75
+274,Jimmy got his leg bitten off by a shark,Jimmy got his leg bitten off by a kitten,0.22305089235305786,0.27694910764694214,0,1,False,0.7928857803344727,0.8
+275,Internet helps people stay connected,the Internet will disperse people,0.46220332384109497,0.962203323841095,1,1,True,0.5077307820320129,0.25
+276,She put water in the bucket.,She put a building in the bucket.,0.4367321729660034,0.9367321729660034,1,1,True,0.7761713266372681,0.625
+277,Video game consoles are hard to see nowadays.,Video game consoles can be seen without contact lenses only,0.10283821821212769,0.3971617817878723,0,1,False,0.640587329864502,0.2
+278,I talked to my friend in the bark.,I talked to my friend in the park.,0.47875867038965225,0.021241329610347748,0,0,True,0.6203369498252869,0.7777777777777778
+279,he turned the light on,he turned the table on,0.3161223530769348,0.8161223530769348,1,1,True,0.6309026479721069,0.6666666666666666
+280,he installed the carpet on the floor,he installed the carpet on the lake,0.4508515000343323,0.9508515000343323,1,1,True,0.8057948350906372,0.7142857142857143
+281,She erased a campfire with an eraser.,She erased a chalkboard with an eraser.,0.34672562777996063,0.15327437222003937,0,0,True,0.8029251098632812,0.75
+282,The rotary phone recorded me.,The cell phone recorded me.,0.07301568984985352,0.5730156898498535,1,0,False,0.7505714893341064,0.6666666666666666
+283,I live 100 miles from Saturn.,I live 100 miles from my birth location.,0.24719315767288208,0.7471931576728821,1,0,False,0.6173280477523804,0.5555555555555556
+284,He pet his dog gently,He pet his pterodactyl gently,0.3142908811569214,0.8142908811569214,1,1,True,0.7594849467277527,0.6666666666666666
+285,"If I put the light on,  it won't be dark anymore.","If it's dark,  I must put the light off.",0.4219409376382828,0.07805906236171722,0,1,False,0.8390847444534302,0.3333333333333333
+286,she baked a chicken at Christmas,she baked a horse at Christmas,0.4890194535255432,0.9890194535255432,1,1,True,0.7230725884437561,0.7142857142857143
+287,My husband is addicted to bananas,bananas are addicted to my husband,0.44623446464538574,0.9462344646453857,1,1,True,0.8763467073440552,0.5
+288,I walk and moves,I walk without moving,0.32528887689113617,0.17471112310886383,0,1,False,0.7548187375068665,0.3333333333333333
+289,Mammals include alligators,A giraffe is a mammal,0.34356003999710083,0.8435600399971008,1,0,False,0.5342909097671509,0.0
+290,Mathematicians can solve math problems.,Mathematicians can play football very well,0.39040660858154297,0.890406608581543,1,1,True,0.5375562906265259,0.2222222222222222
+291,She can make the rainfall.,She can hear the rainfall.,0.09149163961410522,0.5914916396141052,1,0,False,0.8529869318008423,0.6666666666666666
+292,Observatories are located at the top of the mountain,Observatories are located at the bottom of the ocean.,0.1818273961544037,0.3181726038455963,0,1,False,0.5815215706825256,0.6
+293,She put a stove on the plate.,She put a soup on the plate.,0.4768791850656271,0.023120814934372902,0,0,True,0.78434818983078,0.75
+294,smoking is injurious to health,smoking will cherish your health,0.06376475095748901,0.563764750957489,1,1,True,0.808230996131897,0.25
+295,If I want ride a motorcycle I needn't wear the helmet.,If I want ride a motorcycle I must wear the helmet.,0.4403744079172611,0.059625592082738876,0,0,True,0.9826476573944092,0.8181818181818182
+296,The human is the fastest mammal on the planet,The cheetah is the fastest mammal on the planet,0.26836827397346497,0.23163172602653503,0,0,True,0.772758960723877,0.7777777777777778
+297,The robot felt sad,The monkey felt sad,0.07898896932601929,0.5789889693260193,1,0,False,0.5682306289672852,0.6
+298,Babies are affected heavily by their environments.,Babies are unaware of their surroundings and reap no harm from the negativity around them.,0.36898523569107056,0.8689852356910706,1,1,True,0.48602429032325745,0.15789473684210525
+299,The mother carried her 3-day old newborn baby to the car.,The 3-day old newborn baby walked to the car.,0.14633584022521973,0.6463358402252197,1,1,True,0.8221712112426758,0.6666666666666666
+300,a war is fought for solution,There is peace during war,0.3251890242099762,0.1748109757900238,0,1,False,0.6155136823654175,0.2222222222222222
+301,Ice is a highly concentrated form of nutrition.,Nuts are a highly concentrated form of nutrition.,0.3522798418998718,0.8522798418998718,1,0,False,0.629033625125885,0.6
+302,the smartphone is a device used for communication,the smartphone is a device used for transportation,0.4498712569475174,0.050128743052482605,0,1,False,0.829401969909668,0.7777777777777778
+303,a watermelon contains more water than a banana,a banana contains more water than a watermelon,0.043833017349243164,0.45616698265075684,0,1,False,0.9832481145858765,1.0
+304,She fell down the stairs and broke her knee,She fell up the stairs and broke her knee,0.4780565295368433,0.0219434704631567,0,1,False,0.9819411635398865,0.8
+305,I got ready for bed so I drank a cup of coffee,I got ready for bed so I washed my face,0.0983126163482666,0.4016873836517334,0,0,True,0.6074293851852417,0.42857142857142855
+306,the man fed the snake a mouse,the man fed the mouse a snake,0.3116894066333771,0.18831059336662292,0,1,False,0.9450899958610535,1.0
+307,A neighbor is a person who lives far from you,A neighbor is a person who lives next to you,0.4601304531097412,0.03986954689025879,0,0,True,0.9145788550376892,0.6666666666666666
+308,the pharmacy sell medications,the pharmacy sell pets,0.390866756439209,0.890866756439209,1,1,True,0.7805808782577515,0.6
+309,The sky is blue,The sky is orange,0.0849006175994873,0.4150993824005127,0,1,False,0.7258871793746948,0.6
+310,my brother waters his phone every morning,my brother waters his flowers every morning,0.27719685435295105,0.22280314564704895,0,0,True,0.7299266457557678,0.75
+311,she rides the public bus to school,she drives the public bus to school,0.48108975775539875,0.01891024224460125,0,1,False,0.9069206714630127,0.75
+312,the driver brakes when seeing the red signal,the driver accelerates when seeing the red signal,0.36413897573947906,0.13586102426052094,0,1,False,0.8351802825927734,0.75
+313,the snake runs on his feet,the snake crawls on his body,0.42871231585741043,0.07128768414258957,0,0,True,0.8164264559745789,0.5
+314,the moon is falling from the sky,A moon didn't fall from the sky,0.052659064531326294,0.4473409354686737,0,0,True,0.7707886695861816,0.4444444444444444
+315,"if you don't brush your teeth, you get dark","if you don't brush your teeth, you will get Oral Diseases",0.44423336535692215,0.05576663464307785,0,0,True,0.7168183326721191,0.6363636363636364
+316,my sister walks to work today,my sister flies to work today,0.3420230448246002,0.15797695517539978,0,1,False,0.7508658170700073,0.7142857142857143
+317,Eating pizza requires a pizza,Eating pizza requires a masters degree,0.0877278745174408,0.4122721254825592,0,1,False,0.739624559879303,0.6666666666666666
+318,He put a gorilla into a box,He put old clothes into a box,0.4738845359534025,0.02611546404659748,0,0,True,0.5558896064758301,0.625
+319,My professor had us write an essay on The National Monument.,My son had us write an essay on The National Monument.,0.16726642847061157,0.3327335715293884,0,1,False,0.8388394117355347,0.8333333333333334
+320,Artificial flowers in my flower vase wilts soon,Fresh flowers in my flower vase wilts soon,0.2839052528142929,0.2160947471857071,0,0,True,0.8820825815200806,0.7777777777777778
+321,I play games on my shoes,I play games on my phone,0.4879547758027911,0.012045224197208881,0,0,True,0.689635157585144,0.7142857142857143
+322,He walked a dog on a leash in the park,He walked a rock in the park,0.3827630877494812,0.8827630877494812,1,1,True,0.6451805233955383,0.6
+323,A cat eats a building,A cat eats a fish,0.3893856406211853,0.1106143593788147,0,0,True,0.7657179236412048,0.6666666666666666
+324,grass grows in the water,grass grows on the ground,0.46614159271121025,0.03385840728878975,0,0,True,0.780002772808075,0.42857142857142855
+325,The school is for learning,the store is for learning,0.23280298709869385,0.7328029870986938,1,1,True,0.6835114359855652,0.42857142857142855
+326,she cooked mosquitos and ants for dinner,she cooked pasta and sushi for dinner,0.4904936831444502,0.009506316855549812,0,0,True,0.3635669946670532,0.5555555555555556
+327,"At the restaurant, police came for taking orders","At the restaurant, a waiter came for taking orders",0.37842605262994766,0.12157394737005234,0,0,True,0.7775589823722839,0.7
+328,dogs are social animals who prefer a solitary existence to live in a pack,dogs are social animals who prefer life in a pack to a solitary existence,0.3342389166355133,0.1657610833644867,0,0,True,0.9660995006561279,0.8571428571428571
+329,baby like milk,milk like a baby,0.21198970079421997,0.71198970079422,1,1,True,0.844730019569397,0.75
+330,you are able to use a piece of paper as a bookmark,you are able to use a brick as a bookmark,0.1993669867515564,0.6993669867515564,1,1,True,0.7435207366943359,0.6666666666666666
+331,The man is resilient,The man is a rubber,0.35537099838256836,0.8553709983825684,1,1,True,0.6470353603363037,0.5
+332,Jill received a bill from the moon,Jill received a bill from the gas company,0.42988121509552,0.92988121509552,1,0,False,0.7099472880363464,0.6666666666666666
+333,You can sell unwanted items on Facebook,You can sell a baby on Facebook,0.3041256070137024,0.8041256070137024,1,1,True,0.7002933025360107,0.5555555555555556
+334,we can touch the rainbows,we can see the rainbows,0.3710864931344986,0.1289135068655014,0,0,True,0.834126889705658,0.6666666666666666
+335,"if it doesn't rain for a long time, the earth will get very dry","if it doesn't rain for a long time, the earth will get very wet",0.4078962057828903,0.09210379421710968,0,1,False,0.9484286308288574,0.8666666666666667
+336,The man Loves the dog,The dog hates his hoster,0.29745304584503174,0.7974530458450317,1,1,True,0.6042218208312988,0.25
+337,I hide successfully behind a tree,I hide successfully behind a book,0.4351223111152649,0.9351223111152649,1,1,True,0.8204690217971802,0.7142857142857143
+338,You can send the photos by email,You can send the book by email,0.4014591798186302,0.09854082018136978,0,1,False,0.6909527778625488,0.75
+339,The dog yelled at the man.,The man yelled at the dog.,0.38897668570280075,0.11102331429719925,0,0,True,0.9628823399543762,0.5
+340,An x-ray can be used to see people without clothes.,An x-ray can be used to check the condition of a person's bones.,0.39069032669067383,0.10930967330932617,0,0,True,0.7256273031234741,0.35294117647058826
+341,He drives cupboard well,He drives bike well,0.11584514379501343,0.6158451437950134,1,0,False,0.6029860377311707,0.6
+342,Tacos was Johnny's favorite drink,Tacos was Johnny's favorite food,0.45173604041337967,0.04826395958662033,0,0,True,0.8481417298316956,0.6666666666666666
+343,He ties his socks before leaving for his flight,He ties his shoes before leaving for his flight,0.0845620334148407,0.4154379665851593,0,0,True,0.8541992902755737,0.7777777777777778
+344,She shaved her eyes.,She shaved her legs.,0.08125537633895874,0.41874462366104126,0,0,True,0.8579020500183105,0.6
+345,The snake ate the bird.,The snake ate the elephant.,0.11208397150039673,0.6120839715003967,1,1,True,0.744520902633667,0.6666666666666666
+346,river water run and reach the ocean finally.,Ocean water runs into the river,0.46670403331518173,0.03329596668481827,0,1,False,0.6656403541564941,0.2727272727272727
+347,"Sean is a hard-working guy, so he studied the whole day","Sean is a hard-working guy, so he plays phone games the whole day",0.44452327489852905,0.944523274898529,1,1,True,0.791544497013092,0.7142857142857143
+348,A computer can work with being plugged in,A notebook can work with being plugged in,0.12575596570968628,0.6257559657096863,1,1,True,0.7779594659805298,0.7777777777777778
+349,Walking is faster than driving,Running is faster than walking,0.47809573635458946,0.021904263645410538,0,0,True,0.7880976796150208,0.42857142857142855
+350,The man went to jail after beating his wife.,The man went to jail after eating candy.,0.4005819857120514,0.09941801428794861,0,1,False,0.6252361536026001,0.5454545454545454
+351,I am throwing hello,I am saying hello,0.35107971727848053,0.14892028272151947,0,0,True,0.6751964092254639,0.6
+352,There was a bird flying.,There was a boy with glasses flying on a broomstick.,0.2233397364616394,0.7233397364616394,1,1,True,0.36790013313293457,0.2727272727272727
+353,A man is wearing pants.,A tiger is wearing pants.,0.18537390232086182,0.6853739023208618,1,1,True,0.5749919414520264,0.6666666666666666
+354,he had a toothache so he went to a car salesman,he had a toothache so he went to a dentist,0.42452623695135117,0.07547376304864883,0,0,True,0.8155677318572998,0.7
+355,The air is tasty,The juice is tasty,0.4448080360889435,0.05519196391105652,0,0,True,0.5408374071121216,0.6
+356,fire cannot burn without oxygen,fire can burn without oxygen,0.002041757106781006,0.502041757106781,1,1,True,0.9433060884475708,0.6666666666666666
+357,All frogs can fly in the sky just like birds.,Frogs are found in ponds and swamps.,0.3403460532426834,0.1596539467573166,0,0,True,0.45390185713768005,0.0625
+358,I saw my friend's cat dancing,I saw my friend's car dancing,0.09781280159950256,0.40218719840049744,0,1,False,0.7740286588668823,0.7142857142857143
+359,you should stamp the letter before posting the letter,you can post the letter without any stamps,0.028658777475357056,0.47134122252464294,0,1,False,0.7779435515403748,0.25
+360,my sister went to the pond to fetch water,my sister went to the desert to fetch water,0.1108447015285492,0.3891552984714508,0,1,False,0.8064719438552856,0.7777777777777778
+361,She returned the book to the library.,The book returned the girl to the library.,0.40145260095596313,0.9014526009559631,1,1,True,0.7997530698776245,0.625
+362,I have two necks.,I have a neck.,0.2387598156929016,0.7387598156929016,1,0,False,0.7852381467819214,0.3333333333333333
+363,Soccer balls are round.,American Football balls are round.,0.05938434600830078,0.4406156539916992,0,1,False,0.8553754687309265,0.5
+364,salsa is blue,salsa is red,0.04277557134628296,0.542775571346283,1,0,False,0.845910906791687,0.5
+365,He buys a new tv every day,He watches sports TV every day.,0.4794284999370575,0.020571500062942505,0,0,True,0.6606029272079468,0.18181818181818182
+366,Birds make nest everyday in bedroom closets.,She put the guest coats in the bedroom closet.,0.4333399012684822,0.06666009873151779,0,0,True,0.3526074290275574,0.15384615384615385
+367,Snowmobile drivers wear snowsuits to stay warm in the winter time.,Snowmobiles wear snowsuits to stay warm in the wintertime.,0.3521391749382019,0.1478608250617981,0,1,False,0.8775858879089355,0.5384615384615384
+368,Something that might happen while bathing is your shirt becomes wet.,Something that might happen while bathing is your body becomes wet.,0.4481375962495804,0.05186240375041962,0,0,True,0.8830297589302063,0.8333333333333334
+369,My boat hauls my truck.,My truck can be used for hauling equipment or a boat.,0.11392185091972351,0.3860781490802765,0,0,True,0.6494675874710083,0.06666666666666667
+370,A hole will make a boat sink,A hole will make a boat float,0.2999403774738312,0.20005962252616882,0,1,False,0.8766483664512634,0.75
+371,He drove up the stairs to the bedroom,He walked up the stairs to the bedroom,0.48682101909071207,0.01317898090928793,0,0,True,0.9161763191223145,0.75
+372,She put a motorcycle on the table.,She put the salad on the table.,0.48946977127343416,0.010530228726565838,0,0,True,0.49796557426452637,0.625
+373,cats eat dog food,cats eat special cat food,0.4106064736843109,0.08939352631568909,0,0,True,0.8122011423110962,0.5
+374,Film making can be a single job in the summer,Film making can be a stressful job in the summer,0.11630314588546753,0.6163031458854675,1,0,False,0.8878140449523926,0.8181818181818182
+375,He picked up his piano and played a chord,He picked up his guitar and played a chord,0.49617982655763626,0.003820173442363739,0,0,True,0.8203057050704956,0.8
+376,she puts hot grease into a cup,she puts water into a cup,0.49048512149602175,0.009514878503978252,0,0,True,0.6608799695968628,0.625
+377,The recipe takes a variety of herbs for flavor.,The pot takes a variety of herbs for flavor.,0.07140880823135376,0.42859119176864624,0,1,False,0.8388254046440125,0.8
+378,Mary won the race yesterday,Mary won the race tomorrow,0.17046499252319336,0.6704649925231934,1,1,True,0.9138479232788086,0.6666666666666666
+379,I watered the orange juice,I watered the plants,0.488216950558126,0.011783049441874027,0,0,True,0.5501929521560669,0.5
+380,Food gets hotter as you leave it out,Food gets cooler as you leave it out,0.06251776218414307,0.43748223781585693,0,0,True,0.8589062094688416,0.7777777777777778
+381,I wear my gloves on my feet.,I wear my gloves on my hands.,0.4766717944294214,0.023328205570578575,0,0,True,0.9155965447425842,0.7142857142857143
+382,Amy swam to Texas to see Austin,Amy travels to Texas to see Austin,0.20985859632492065,0.29014140367507935,0,0,True,0.8992009162902832,0.7142857142857143
+383,Texas is hot in the summer.,Texas is snowing in the summer.,0.09104347229003906,0.5910434722900391,1,1,True,0.7898187637329102,0.7142857142857143
+384,smoking is injurious to health,smoking is good for health,0.06679749488830566,0.43320250511169434,0,1,False,0.9024264812469482,0.42857142857142855
+385,They grabbed a dinosaur from the drawer.,They grabbed a soda from the drawer.,0.4464313015341759,0.05356869846582413,0,0,True,0.6602673530578613,0.75
+386,Hens lay eggs,Pigs lay eggs,0.2334086298942566,0.2665913701057434,0,1,False,0.6856180429458618,0.5
+387,sunlight comes from the sun,the sun comes from sunlight,0.248432457447052,0.251567542552948,0,1,False,0.9011241793632507,1.0
+388,The bike overtake the car,The red car went by very fast,0.11396899819374084,0.38603100180625916,0,0,True,0.355574369430542,0.2
+389,The doctor repaired the patient's broken bone.,The doctor smashed the patient's broken bone.,0.34893226623535156,0.15106773376464844,0,1,False,0.8908910155296326,0.75
+390,a blue painting hangs on the wall,a blue painting is floating in air,0.22680017352104187,0.27319982647895813,0,1,False,0.7236360907554626,0.2727272727272727
+391,Lotion is useful for moisturizing your tea.,The lotion is useful for moisturizing your skin,0.28194883465766907,0.21805116534233093,0,0,True,0.8012328147888184,0.5
+392,sitting on the barbed wire is more comfortable than sitting on a stool,sitting on a sofa is more comfortable than sitting on a stool,0.39719802141189575,0.10280197858810425,0,0,True,0.7791475057601929,0.6666666666666666
+393,The whale was found in the forest,The bear was found in the forest.,0.43724098056554794,0.06275901943445206,0,0,True,0.7168190479278564,0.5555555555555556
+394,You must eat lots of fats and sugar to stay healthy.,You must exercise to stay healthy.,0.48009869642555714,0.019901303574442863,0,0,True,0.5740752220153809,0.4166666666666667
+395,A diet high in sugar is mandatory,A diet high in sugar is unhealthy,0.4166799709200859,0.08332002907991409,0,0,True,0.8089452385902405,0.75
+396,the clothes are running away,the clothes are being washed,0.47281492687761784,0.027185073122382164,0,0,True,0.6513298749923706,0.42857142857142855
+397,The cheetah washed up on the beach,The whale washed up on the beach,0.2474224865436554,0.2525775134563446,0,0,True,0.6292562484741211,0.75
+398,Watching sports is fun for all people,Watching sports is fun to some people,0.48596641048789024,0.014033589512109756,0,0,True,0.9124491810798645,0.5555555555555556
+399,You only die once,You die twice.,0.0064237117767333984,0.5064237117767334,1,1,True,0.740371584892273,0.4
+400,Broken glasses help you see better.,Glasses help you see better,0.2642129212617874,0.23578707873821259,0,0,True,0.8671444058418274,0.375
+401,He answers a call on his banana.,He answers a call on his cell phone.,0.4903917368501425,0.009608263149857521,0,0,True,0.6771756410598755,0.6666666666666666
+402,An airplane swims in the water.,An airplane flies through the air.,0.4744227100163698,0.02557728998363018,0,0,True,0.6095389127731323,0.3333333333333333
+403,Elephants are the smallest land mammals.,Elephants are the largest land mammals.,0.41262881457805634,0.08737118542194366,0,0,True,0.9297739267349243,0.7142857142857143
+404,He swam in the water,He swam in petrol,0.31097280979156494,0.18902719020843506,0,1,False,0.7164450883865356,0.5
+405,I am a male,Men are more intelligent than women,0.25035201013088226,0.24964798986911774,0,1,False,0.30658262968063354,0.0
+406,She throws bananas at caretakers at the zoo all day.,He eats a banana for breakfast every day.,0.46318909898400307,0.03681090101599693,0,0,True,0.4737967848777771,0.0625
+407,My friend started a campfire on the 4th of July.,People who start fires are pyromaniacs.,0.20210707187652588,0.2978929281234741,0,1,False,0.35206517577171326,0.0
+408,He put some water into a pool,He put a dinosaur into the pool,0.47287094593048096,0.972870945930481,1,1,True,0.6703441739082336,0.5555555555555556
+409,that girl is taller than that boy,Girls are taller than boys on average,0.25584839284420013,0.24415160715579987,0,1,False,0.5749039649963379,0.18181818181818182
+410,Dory moves the desk with her fin.,Dory moves the desk with her arms.,0.3476985692977905,0.8476985692977905,1,0,False,0.8317348957061768,0.75
+411,he put a piece of plastic on the bread,he put a piece of cheese on the bread,0.4845805810764432,0.015419418923556805,0,0,True,0.7302215695381165,0.8
+412,People get killed in famines.,People get fat during famines.,0.10872337222099304,0.39127662777900696,0,1,False,0.5912876725196838,0.42857142857142855
+413,A desalination plant in California would contribute to providing more drinkable water for that area.,Planting salt in California contributes to providing more drinkable water for that area.,0.21980538964271545,0.28019461035728455,0,1,False,0.8202154636383057,0.5555555555555556
+414,my mother cooked the chicken,my mother cooked the stone,0.44333285093307495,0.943332850933075,1,1,True,0.7025420665740967,0.6666666666666666
+415,You can use a Hospital to sleep while away from home,You can use a hotel to sleep while away from home,0.3098626881837845,0.19013731181621552,0,0,True,0.7740496397018433,0.8333333333333334
+416,MY SISTER PREPARE A SANDWICHES WITH CHALKS.,MY SISTER PREPARE A SANDWICHES WITH BREAD,0.36816251277923584,0.13183748722076416,0,0,True,0.9058355093002319,0.75
+417,Puja almost works 12 to 15 hours every day.,Puja almost works 25 to 30 hours every day.,0.03481936454772949,0.4651806354522705,0,1,False,0.7540402412414551,0.6363636363636364
+418,"Due to global warming, the temperature becomes higher",Due to global warming the temperature becomes lower,0.4536795876920223,0.046320412307977676,0,1,False,0.9368435740470886,0.6
+419,He parked his bike in his house,He parked his train in his house,0.47013241052627563,0.9701324105262756,1,1,True,0.7604573965072632,0.7142857142857143
+420,He waited for his bus at the bus stop,He waited for his flight at the bus stop,0.0857812762260437,0.5857812762260437,1,1,True,0.8739877343177795,0.8888888888888888
+421,Widow is an opening in the wall or roof of a building or vehicle,Window is an opening in the wall or roof of a building or vehicle,0.37678005546331406,0.12321994453668594,0,0,True,0.840605616569519,0.8571428571428571
+422,Children should eat their parents.,Children should be obedient to their parents.,0.369982972741127,0.13001702725887299,0,0,True,0.6878792643547058,0.5
+423,there is some water on the lawn,there is some water eating on the lawn,0.4551527500152588,0.9551527500152588,1,1,True,0.8138607740402222,0.875
+424,a man has two hands,a duck has two hands,0.3182583898305893,0.1817416101694107,0,1,False,0.6494837403297424,0.6666666666666666
+425,The doctor graduated from medical school,The doctor failed medical school,0.2246686816215515,0.7246686816215515,1,1,True,0.8676955699920654,0.5714285714285714
+426,The elephant is gray.,The elephant is pink.,0.4555000066757202,0.9555000066757202,1,1,True,0.8202126622200012,0.6
+427,She puts clean clothes in the cabinet.,She puts dirty clothes in the cabinet,0.3403266668319702,0.15967333316802979,0,1,False,0.892825722694397,0.5555555555555556
+428,He borrowed a grinder from the library,He borrowed a book from the library,0.4981397953815758,0.0018602046184241772,0,0,True,0.7042038440704346,0.75
+429,he added milk to his coffee,he added pepper to his coffee,0.47545724362134933,0.024542756378650665,0,1,False,0.803046703338623,0.7142857142857143
+430,Dogs have hooves.,Horses have hooves.,0.4862968288362026,0.013703171163797379,0,0,True,0.7295030355453491,0.5
+431,We communicate with each other by words and gestures,We don't communicate with each other at all,0.4421189874410629,0.05788101255893707,0,1,False,0.6022728085517883,0.4166666666666667
+432,he put a hat inside of his head,he put a hat on top of his head,0.4596267193555832,0.04037328064441681,0,0,True,0.9395313858985901,0.7
+433,He put all plates in the washing machine to clean,He put all dress in the washing machine to clean,0.19813311100006104,0.698133111000061,1,0,False,0.8376723527908325,0.8181818181818182
+434,You should iron your clothes before you wash them,You should iron your clothes after you wash them,0.3933812156319618,0.10661878436803818,0,0,True,0.9514620304107666,0.8
+435,he kept shoe in the fridge,he kept chocolate in the fridge,0.3783267140388489,0.12167328596115112,0,0,True,0.6852099895477295,0.7142857142857143
+436,Carol turned on the potato,Carol turned on the flashlight,0.48823774233460426,0.011762257665395737,0,0,True,0.5781466960906982,0.6666666666666666
+437,She got off the bus at the crossroad,she got off the cruise ship at the crossroad,0.05674430727958679,0.4432556927204132,0,1,False,0.5814235210418701,0.5
+438,he purchased lime and cement to prepare sandwiches for dinner,he purchased bread and vegetables to prepare sandwiches for dinner,0.48482987750321627,0.015170122496783733,0,0,True,0.7556686997413635,0.6666666666666666
+439,shirts are clothes that people wear,shirts are clothes that birds wear,0.3652726411819458,0.8652726411819458,1,1,True,0.8117895126342773,0.7142857142857143
+440,He wears an umbrella on his head.,He wears a hat on his head.,0.49171479046344757,0.00828520953655243,0,0,True,0.7832930088043213,0.5555555555555556
+441,The sun is very cold.,The sun is very hot.,0.459647461771965,0.04035253822803497,0,0,True,0.834932804107666,0.6666666666666666
+442,he carried a whale in his car,he carried two people in his car,0.3964962959289551,0.8964962959289551,1,0,False,0.6419146060943604,0.5555555555555556
+443,He went to fishing in the Jeep to the desert.,He went for fishing in the boat to the lake.,0.49253116687759757,0.00746883312240243,0,0,True,0.5525379180908203,0.5454545454545454
+444,the ripe apples taste spicy,the ripe apples taste sweet,0.4532198831439018,0.046780116856098175,0,0,True,0.8409327864646912,0.6666666666666666
+445,the two-years-old baby drove her father daycare,the father drove his two-years-old baby to daycare,0.4026450514793396,0.9026450514793396,1,0,False,0.8387603759765625,0.6666666666666666
+446,I can drink bleach instead of water,I can't drink bleach instead of water,0.3487020432949066,0.15129795670509338,0,0,True,0.9533196687698364,0.75
+447,She went for a run on the trail.,She went for a run on the Sun.,0.4794405698776245,0.9794405698776245,1,1,True,0.7259712815284729,0.7777777777777778
+448,the park is a nice place to jog,the room is a nice place to jog,0.3239870071411133,0.8239870071411133,1,1,True,0.705467164516449,0.7777777777777778
+449,The black owl is red,The black owl is large,0.38124530762434006,0.11875469237565994,0,0,True,0.8440443277359009,0.6666666666666666
+450,"Yesterday, a dinosaur chased me.",Dinosaurs are extinct.,0.33730170130729675,0.16269829869270325,0,0,True,0.5342414975166321,0.0
+451,My son placed his football on his dresser.,My son placed his school locker on his dresser.,0.03146559000015259,0.5314655900001526,1,1,True,0.7602143883705139,0.6666666666666666
+452,the farmers live on a cloud,the farmers live on a farm,0.4952398734167218,0.004760126583278179,0,0,True,0.7101850509643555,0.7142857142857143
+453,Wallets are typically used to hold cash and credit cards.,Wallets are typically used to hold spider eggs and denim.,0.40062230825424194,0.9006223082542419,1,1,True,0.6060903072357178,0.5384615384615384
+454,Janitors often clean bathrooms for their company,Janitors create financial models for their company,0.13852721452713013,0.6385272145271301,1,1,True,0.4632321298122406,0.4
+455,She took a live giraffe from the shelf.,She took a book from the shelf.,0.4881323156878352,0.011867684312164783,0,0,True,0.5783199071884155,0.6666666666666666
+456,She put a child into the oven,She put a cake into the oven,0.48878592532128096,0.011214074678719044,0,0,True,0.7779091596603394,0.75
+457,She cut down the large oak tree with a chainsaw,She cut down the grass with a chainsaw,0.050055742263793945,0.550055742263794,1,1,True,0.7206407785415649,0.6363636363636364
+458,he ran on the track,he swam on the track,0.47104709781706333,0.02895290218293667,0,1,False,0.7311627864837646,0.6666666666666666
+459,This girl made a horrible time-lapse,This girl made a very nice time-lapse,0.04841572046279907,0.4515842795372009,0,0,True,0.8787178993225098,0.625
+460,the little girl howled at the wolf,A wolf howled at the little girl,0.0009720325469970703,0.49902796745300293,0,0,True,0.8974263668060303,0.8571428571428571
+461,He wrote a book by breaking his pen.,He wrote a book using his hands.,0.4639728255569935,0.036027174443006516,0,0,True,0.6376725435256958,0.5
+462,I oiled the floors.,I scrubbed the floors.,0.4769723601639271,0.023027639836072922,0,0,True,0.8676238656044006,0.6
+463,He turned on the TV with the VCR.,He turned on the TV with the remote.,0.48737306520342827,0.012626934796571732,0,0,True,0.7746591567993164,0.75
+464,the man put on his airplane,the man put on his pants,0.4632752798497677,0.036724720150232315,0,0,True,0.5486310720443726,0.7142857142857143
+465,The woman dyes her hair every six weeks at the salon.,The woman dyes her feet every six weeks at the salon.,0.14774644374847412,0.6477464437484741,1,1,True,0.8736286163330078,0.8333333333333334
+466,"if you break the law, you will be punished","if you break the law, you will receive a reward",0.2626282423734665,0.2373717576265335,0,1,False,0.8261561393737793,0.5454545454545454
+467,The Pokemon caught Ash,Ash caught all the Pokemon,0.05527034401893616,0.44472965598106384,0,0,True,0.8810702562332153,0.5
+468,the person was connected to the mixing console,the microphone was connected to the mixing console,0.47843181155622005,0.021568188443779945,0,0,True,0.7143473625183105,0.75
+469,I use grass to cut my weed whacker.,I use a weed whacker to cut my grass.,0.35442474484443665,0.14557525515556335,0,0,True,0.9268973469734192,0.5454545454545454
+470,He buy a house.,He buy a planet.,0.4290049076080322,0.9290049076080322,1,1,True,0.6568254232406616,0.6
+471,A person can sleep,A fan can sleep,0.47174137830734253,0.9717413783073425,1,1,True,0.6965900659561157,0.6
+472,one hundred people enter in the car,Two people enter in the car,0.44310958683490753,0.05689041316509247,0,0,True,0.7303617000579834,0.625
+473,I ride a car on the ocean,I want to ride a car on the highway,0.4174659550189972,0.08253404498100281,0,0,True,0.617017388343811,0.6
+474,You can ride the subway in the city.,You can ride the subway in the country.,0.48793662153184414,0.012063378468155861,0,1,False,0.8700395822525024,0.75
+475,She put a cat in the cup.,She poured juice into the glass.,0.4530740715563297,0.04692592844367027,0,0,True,0.5064677000045776,0.18181818181818182
+476,He used the mop to clean the carpet.,He used the vacuum to clean the carpet.,0.4920247821137309,0.007975217886269093,0,0,True,0.8742060661315918,0.75
+477,the mobile phone can be used to contact with other person,the mobile phone is one of the food,0.42206811904907227,0.9220681190490723,1,1,True,0.5299233198165894,0.2
+478,Houses are found in lakes.,Tim painted his house yesterday.,0.05640614032745361,0.5564061403274536,1,0,False,0.12594836950302124,0.0
+479,A blind man still has many senses,A dead man still has many senses,0.31529152393341064,0.8152915239334106,1,1,True,0.7202082872390747,0.75
+480,Put the baby in the driver seat.,Put the baby in the car seat.,0.17057743668556213,0.32942256331443787,0,0,True,0.8292823433876038,0.7142857142857143
+481,He uses a computer for data typing work.,He uses dumbbells for data typing work.,0.4442175626754761,0.9442175626754761,1,1,True,0.7344130873680115,0.6666666666666666
+482,it is safe to touch liquid nitrogen,it is dangerous to touch liquid nitrogen,0.3091168999671936,0.1908831000328064,0,0,True,0.9082013368606567,0.75
+483,"The ant stepped on the child, which killed it.","The child stepped on the ant, which killed it.",0.12483453750610352,0.6248345375061035,1,0,False,0.9823656678199768,0.6363636363636364
+484,He opened a can of worms with a can opener.,He opened a can opener with a can opener.,0.4242950454354286,0.07570495456457138,0,1,False,0.887275218963623,0.6666666666666666
+485,James put the babies in the dog house.,JAMES PUT THE PUPPIES IN THE DOG HOUSE.,0.4915724592283368,0.008427540771663189,0,0,True,0.8465114831924438,0.0
+486,he put ice in the freezer,he put a cat in the freezer,0.12280267477035522,0.6228026747703552,1,1,True,0.6815682053565979,0.625
+487,The elephant jumped into the car.,The dog jumped into the car.,0.41395192593336105,0.08604807406663895,0,0,True,0.6163959503173828,0.7142857142857143
+488,crackhead does not take drugs,crackhead is a drug addict,0.4908014703541994,0.00919852964580059,0,0,True,0.7755005955696106,0.1111111111111111
+489,Leena daily eats two bananas which are good for health.,Leena eats almost 1000 bananas daily as his morning breakfast.,0.37993796169757843,0.12006203830242157,0,1,False,0.6401560306549072,0.25
+490,An electrician wires houses.,An electrician generates electricity.,0.49555942276492715,0.004440577235072851,0,1,False,0.7550753951072693,0.3333333333333333
+491,he was flying to Hawaii,he was swimming in Hawaii,0.046267688274383545,0.5462676882743835,1,1,True,0.7907592058181763,0.42857142857142855
+492,scissors are used to cut through paper,scissors are used to cut through rivers,0.4110740050673485,0.08892599493265152,0,1,False,0.8031817674636841,0.75
+493,A sandwich eats me.,I ate a nice sandwich.,0.48485513031482697,0.015144869685173035,0,0,True,0.730805516242981,0.0
+494,Daniel performed woefully behind others because he's the most intelligent and brilliant in his class,Daniel aced his examination papers ahead of others because he's the most intelligent and brilliant in the class.,0.25033411383628845,0.24966588616371155,0,0,True,0.8089770078659058,0.5238095238095238
+495,The Management People were happy hearing the Protest news,The workers protested against the management People,0.3806636855006218,0.1193363144993782,0,0,True,0.6014115810394287,0.23076923076923078
+496,She put a lipstick in her pocket.,She put a pig in her pocket.,0.4379134774208069,0.9379134774208069,1,1,True,0.5864285826683044,0.75
+497,The cow went to college to study art.,The man went to college to study art.,0.4118283838033676,0.08817161619663239,0,0,True,0.7531659603118896,0.75
+498,Asia is part of Dubai,Dubai is located in Asia,0.40701333433389664,0.09298666566610336,0,0,True,0.8400427103042603,0.42857142857142855
+499,She takes a bath after wearing her running shoes.,She takes bath after removing her running shoes.,0.3177971839904785,0.18220281600952148,0,0,True,0.903238832950592,0.7
+500,A FISH LIVES IN WATER,A FISH WALKS IN THE STREET,0.44335609674453735,0.9433560967445374,1,1,True,0.6076970100402832,0.375
+501,surveys have been known to harm children,surveys are great to make quick money,0.3228505253791809,0.8228505253791809,1,0,False,0.4356226921081543,0.16666666666666666
+502,Women are usually larger than men.,Men are usually larger than women.,0.17005205154418945,0.6700520515441895,1,0,False,0.9158017635345459,0.5
+503,a ball is for dancing at,dinner is for dancing at,0.34257298707962036,0.8425729870796204,1,1,True,0.6276101469993591,0.5714285714285714
+504,The carpenters only uses the best wood.,The best wood is made out of metal.,0.2711178958415985,0.2288821041584015,0,1,False,0.5810355544090271,0.15384615384615385
+505,Roses are blue and violets are red,Roses are red and violets are blue,0.2379644811153412,0.2620355188846588,0,0,True,0.9923446178436279,1.0
+506,Australia is known for its unique animals like the kangaroo.,The kangaroos are common to every continent.,0.16566112637519836,0.33433887362480164,0,1,False,0.6634172201156616,0.0
+507,paramedics just arrived at the accident scene to rescue the victims,dancers just arrived at the accident scene to rescue the victims,0.0503501296043396,0.5503501296043396,1,1,True,0.865066409111023,0.8181818181818182
+508,He made a turkey sandwich.,Sandwich made a turkey.,0.17727142572402954,0.32272857427597046,0,1,False,0.7934019565582275,0.2857142857142857
+509,My father can take a high jump up to 200m.,My father can take a high jump up to 2m.,0.09587261080741882,0.4041273891925812,0,0,True,0.8952381014823914,0.8181818181818182
+510,Heaven is nice,Heaven is horrible,0.3671884536743164,0.8671884536743164,1,1,True,0.8911409378051758,0.5
+511,She went to the museum last weekend.,She went to the museum next weekend.,0.46245045587420464,0.037549544125795364,0,1,False,0.9154903888702393,0.75
+512,I had dinner with my friends yesterday.,I was on date with lion yesterday.,0.3853384256362915,0.8853384256362915,1,1,True,0.4574277400970459,0.2727272727272727
+513,My mom always cuts my sister's hair.,My mom always cuts my fish's hair.,0.3480016589164734,0.8480016589164734,1,1,True,0.7819277048110962,0.75
+514,It is OK to take hot things out of the oven without using an oven mitten.,You should never take anything hot out of the oven without an oven mitten.,0.23917514085769653,0.26082485914230347,0,0,True,0.8421899080276489,0.47368421052631576
+515,He put the key in the lock.,He put a pony in the lock.,0.46039891242980957,0.9603989124298096,1,1,True,0.7087175846099854,0.625
+516,Banks lend money without any interest,Banks lend money on interest,0.4510926604270935,0.048907339572906494,0,0,True,0.8826015591621399,0.5714285714285714
+517,He drinks milk in breakfast,He drinks white glue in breakfast,0.45444583892822266,0.9544458389282227,1,1,True,0.69590163230896,0.5714285714285714
+518,Peter is sleeping towards the bus stop,Peter is running towards the bus stop,0.4619673527777195,0.0380326472222805,0,0,True,0.7476528882980347,0.75
+519,The principal scolded the teachers.,The teachers scolded the principal.,0.3930932357907295,0.10690676420927048,0,1,False,0.9646082520484924,0.42857142857142855
+520,He put on a shirt.,He put on a bike.,0.4947429494932294,0.005257050506770611,0,1,False,0.6236838102340698,0.6666666666666666
+521,She put the papers into the filing cabinet.,She put the filing cabinet into the papers.,0.39129167795181274,0.8912916779518127,1,1,True,0.9772131443023682,0.5555555555555556
+522,My bird is about forty feet tall.,My bird is about a foot tall.,0.03541561961174011,0.4645843803882599,0,0,True,0.8901079893112183,0.5555555555555556
+523,No one drinks milk because you cannot absorb nutrients from it.,Many people drink milk to get nutrients from it.,0.4657963365316391,0.0342036634683609,0,0,True,0.5990982055664062,0.25
+524,He cut the onion with a knife,He cut the onion with a spoon,0.35199131071567535,0.14800868928432465,0,1,False,0.9104766249656677,0.75
+525,The man who flies a plane is called a conductor.,The man who flies a plane is called the captain.,0.469882246106863,0.030117753893136978,0,0,True,0.7803024053573608,0.7272727272727273
+526,He is wearing gloves on his hands.,He is wearing gloves on his feet.,0.1623830795288086,0.3376169204711914,0,1,False,0.9126607179641724,0.75
+527,Grizzly bears hate honey.,Grizzly bears love honey.,0.4064956530928612,0.09350434690713882,0,0,True,0.8930723667144775,0.6
+528,He left the cat in the kennel.,He left the dog in the kennel.,0.4933797172270715,0.006620282772928476,0,0,True,0.7762980461120605,0.7142857142857143
+529,Traveling by teleporting can take quite a long time.,Traveling on foot can take quite a long time.,0.48338414914906025,0.01661585085093975,0,0,True,0.7298684120178223,0.6363636363636364
+530,The scorpion has claws and a stinger on its tail.,The frog has claws and a stinger on its tail.,0.3354141116142273,0.1645858883857727,0,1,False,0.8409149646759033,0.8181818181818182
+531,peoples use a handkerchief for eyes while the bike rides,peoples use cooling glass for eyes while the bike rides,0.4112948179244995,0.9112948179244995,1,0,False,0.7267966270446777,0.6666666666666666
+532,Thanksgiving is in November.,Thanks for giving days starts the new year,0.10812515020370483,0.39187484979629517,0,1,False,0.3036893606185913,0.0
+533,The lamp fell off the counter,The counter fell off the lamp,0.39604657888412476,0.8960465788841248,1,1,True,0.9682931900024414,1.0
+534,He can cook a whole elephant in a frying pan,He can cook a whole chicken in a frying pan,0.4826764203608036,0.017323579639196396,0,0,True,0.7559880614280701,0.8
+535,Rocks may float when placed in water.,Rocks sink when placed in water.,0.09772560000419617,0.40227439999580383,0,0,True,0.7797369956970215,0.625
+536,he likes to drink cold coffee,he likes to drink motor oil,0.4670080542564392,0.9670080542564392,1,1,True,0.6184576749801636,0.5
+537,The bowling ball is swimming in the pond.,The big fish are swimming in the pond.,0.44776051491498947,0.05223948508501053,0,0,True,0.632529616355896,0.45454545454545453
+538,He put bricks in the oven for baking,He put the cake in the oven for baking,0.4649370238184929,0.03506297618150711,0,0,True,0.8117886781692505,0.7777777777777778
+539,he kept his prized horse in his pocket and had it taken care by a florist,he kept his prized horse in a stable and had it taken care by a professional trainer,0.48785884864628315,0.01214115135371685,0,0,True,0.6637246608734131,0.7222222222222222
+540,"It might rain later today,  be sure to grab your breakfast before you leave.","It's might rain later today,  be sure to grab your umbrella before you leave.",0.23346081376075745,0.26653918623924255,0,0,True,0.7189815044403076,0.75
+541,We do not use the internet in today's generation.,Internet is very useful nowadays.,0.4819578994065523,0.018042100593447685,0,0,True,0.5013517141342163,0.0
+542,There are top hats in the freezer,There are steaks in the freezer,0.3642360270023346,0.1357639729976654,0,0,True,0.5974525213241577,0.625
+543,Most people sleep in a shoe.,Most people sleep in a bed.,0.46261247247457504,0.03738752752542496,0,0,True,0.7193572521209717,0.7142857142857143
+544,Many ships are sunk when they enter the bermuda triangle.,Many ships are sunk when they enter Canada.,0.058857619762420654,0.44114238023757935,0,1,False,0.6444071531295776,0.6363636363636364
+545,the fish is fishing,he is fishing,0.4382707141339779,0.06172928586602211,0,0,True,0.6970270276069641,0.4
+546,He put water in a cup,He put the basketball inside a cup,0.06583887338638306,0.43416112661361694,0,1,False,0.6632735133171082,0.4444444444444444
+547,The last thing you do when you leave the home is to lock the door.,The last thing you do when you leave the home is curling your hair.,0.3100486844778061,0.1899513155221939,0,1,False,0.5377070903778076,0.625
+548,She washed the dish in the sink.,She washed the car in the sink.,0.482216477394104,0.982216477394104,1,1,True,0.8284416198730469,0.7142857142857143
+549,the baby held the teddy bear,the baby held a grizzly bear,0.19852548837661743,0.30147451162338257,0,1,False,0.6641826629638672,0.5714285714285714
+550,She hung a post-it note on her pin-board using a push pin,She hung a post-it note on her pin-board using a cockroach,0.48512715101242065,0.9851271510124207,1,1,True,0.6847192049026489,0.75
+551,"It was an August morning when Jessica,  a receptionist living in Toronto,  decided to wear her snowsuit to work.","It was an August morning when Jessica,  a receptionist living in Toronto,  decided to wear her linen suit to work.",0.2506168484687805,0.7506168484687805,1,0,False,0.9279232621192932,0.85
+552,He flew the airplane to Jupiter,He flew the airplane to Europe,0.49407556746155024,0.005924432538449764,0,0,True,0.7159549593925476,0.7142857142857143
+553,The sky is blue,The sky is underground,0.3703475594520569,0.8703475594520569,1,1,True,0.5703948736190796,0.6
+554,Its cooler in Arizona than anywhere in the USA.,The temperature in Arizona is hotter than Michigan,0.1695357859134674,0.3304642140865326,0,0,True,0.6493469476699829,0.23076923076923078
+555,A graphics tablet enables VR games to be played on a computer,A graphics tablet enables sketching on computer,0.4576883465051651,0.0423116534948349,0,0,True,0.6559159159660339,0.46153846153846156
+556,My sister visited art museum with her boyfriend,My sister visited art museum with her zebra,0.38436269015073776,0.11563730984926224,0,1,False,0.7873342037200928,0.7777777777777778
+557,the library has only one storybook,there are many books in the library,0.4920050045475364,0.007994995452463627,0,0,True,0.6515836715698242,0.18181818181818182
+558,Jack lost his giraffe,Jack lost his wallet,0.4797954298555851,0.0202045701444149,0,0,True,0.5984064340591431,0.6
+559,"Dogs can come in many different colors such as red, blue, and green.","Dogs can come in many different sizes and colors, these are called breeds.",0.46487608924508095,0.03512391075491905,0,0,True,0.6976689100265503,0.3684210526315789
+560,She put an ice cream in the oven.,She put an ice cream in the freezer.,0.4621490389108658,0.037850961089134216,0,0,True,0.8146540522575378,0.7777777777777778
+561,TORTOISE RUNS FASTER THAN CAT,CAT RUNS FASTER THAN TORTOISE,0.1361505687236786,0.3638494312763214,0,0,True,0.9653406143188477,1.0
+562,He put a motorcycle in his wallet,He put a coin in his wallet,0.4962783018127084,0.003721698187291622,0,0,True,0.6885247230529785,0.75
+563,Video games are fun,Video games are not fun,0.35548537969589233,0.8554853796958923,1,1,True,0.8827905058860779,0.8
+564,She was drinking from a cup,She was drinking from a plate,0.17657935619354248,0.6765793561935425,1,1,True,0.7695370316505432,0.7142857142857143
+565,My car is going to the church service,My car is going to be fixed,0.03515017032623291,0.5351501703262329,1,0,False,0.5428904891014099,0.5
+566,She was interviewed after she got the offer,She was interviewed before she got the offer,0.06697654724121094,0.43302345275878906,0,0,True,0.9140199422836304,0.7777777777777778
+567,"if he is retarded,  he will pass the examination","if he is brilliant,  he will pass the examination",0.4828972965478897,0.01710270345211029,0,0,True,0.8693559169769287,0.7777777777777778
+568,we drove our car for 40 miles before having to stop for an oil refill,we drove our car for 40000 miles before having to stop for an oil refill,0.06212645769119263,0.4378735423088074,0,1,False,0.9634243249893188,0.8666666666666667
+569,The woman had her hair cut at the hair salon.,The woman had her hair cut at the hardware store.,0.40048930794000626,0.09951069205999374,0,1,False,0.8463936448097229,0.7272727272727273
+570,You are likely to find Rice bags in shoe shops,You are likely to find sandals in a shoe shop,0.4668985418975353,0.033101458102464676,0,0,True,0.6197898983955383,0.5384615384615384
+571,She came off walking across the Pacific ocean,She came off sailing across the Pacific ocean,0.05044364929199219,0.4495563507080078,0,0,True,0.8577237129211426,0.7777777777777778
+572,A rainbow is a meteorological phenomenon,A rainbow can appear on the ground,0.2542420029640198,0.24575799703598022,0,1,False,0.6564134359359741,0.18181818181818182
+573,Sheep do not fly,Birds do not fly,0.4139614924788475,0.0860385075211525,0,1,False,0.5952320098876953,0.6
+574,she threw the football to the batter,she threw the softball to the batter,0.43872449919581413,0.06127550080418587,0,0,True,0.8385369777679443,0.7142857142857143
+575,You are unlikely to ever find a book in the library.,You are likely to find a book in a library.,0.4976888904348016,0.0023111095651984215,0,0,True,0.9006185531616211,0.6666666666666666
+576,He likes to eat pizza.,He put a snake on pizza.,0.26245319843292236,0.7624531984329224,1,1,True,0.6663790941238403,0.2222222222222222
+577,I sliced the strong meat with my Kitchen spoon.,I sliced the strong meat with my Kitchen Knife.,0.4652976617217064,0.03470233827829361,0,0,True,0.8453034162521362,0.8
+578,The giraffe likes to ride  bicycle,The little boy likes to ride bicycle,0.4777357168495655,0.022264283150434494,0,0,True,0.6806409955024719,0.625
+579,She started a fire in the fireplace.,She started a fire in the fridge.,0.007893025875091553,0.5078930258750916,1,1,True,0.7302579879760742,0.75
+580,School is where animals go to dance,School is where students go to study,0.4135001078248024,0.0864998921751976,0,0,True,0.5214942097663879,0.5555555555555556
+581,Drinking beers makes the girl become an alien,Drinking beers makes the girl drunk,0.43452779203653336,0.06547220796346664,0,0,True,0.7025825381278992,0.5555555555555556
+582,if you want to have a pee then you should go to the toilet,if you want to have a pear then you should go to the toilet,0.46580439805984497,0.965804398059845,1,1,True,0.6801287531852722,0.8461538461538461
+583,Colgate is a brand of beer,Colgate is a brand of toothpaste,0.18713170289993286,0.6871317028999329,1,0,False,0.8004564046859741,0.7142857142857143
+584,She made a clown make a shirt,She made a shirt for a clown,0.3995428681373596,0.8995428681373596,1,0,False,0.9640712738037109,0.7142857142857143
+585,"For Lunch, I made an armadillo sandwich for my husband.","For lunch, I made a turkey sandwich for my husband.",0.33065657317638397,0.16934342682361603,0,0,True,0.8146312236785889,0.5384615384615384
+586,I wore pants to work.,I wore a notebook to work.,0.2590791583061218,0.7590791583061218,1,1,True,0.5868921279907227,0.5714285714285714
+587,A new cars are expensive.,An old car is expensive.,0.32190121710300446,0.17809878289699554,0,1,False,0.8179956078529358,0.1111111111111111
+588,"if you want fresh fruits and vegetables, you should grow them","if you want fresh fruits and vegetables, you should destroy them",0.16212975978851318,0.6621297597885132,1,1,True,0.835505485534668,0.8181818181818182
+589,I want a clean house,I want a dirty house,0.18189984560012817,0.6818998456001282,1,1,True,0.7964134216308594,0.6666666666666666
+590,Cheetahs can run faster than cats,Cat runs faster than a cheetah,0.3141086846590042,0.1858913153409958,0,1,False,0.8644405007362366,0.2
+591,Many mammals have fingerprints.,All mammals have fingerprints.,0.29764245450496674,0.20235754549503326,0,1,False,0.8703470230102539,0.6
+592,"If it had rained, you would have gotten wet","If it is a sunny day, you would have gotten wet",0.11311227083206177,0.6131122708320618,1,1,True,0.7199336290359497,0.5384615384615384
+593,she ran toward the dangerous-looking man in the alley,she ran away from the dangerous-looking man in the alley,0.45856431871652603,0.04143568128347397,0,0,True,0.8860263824462891,0.7
+594,Me and Bob played cards last night.,Cats played cards last night.,0.2040935456752777,0.2959064543247223,0,1,False,0.5209394097328186,0.5
+595,Leafs are useless,Leafs help plants absorb nutrition,0.10960590839385986,0.6096059083938599,1,0,False,0.47270309925079346,0.14285714285714285
+596,some people's favorite place is the zoo,you can go swimming and fishing at a zoo,0.151678204536438,0.651678204536438,1,1,True,0.42334234714508057,0.06666666666666667
+597,Elephants life at the north-pole.,Tigers live in the jungle.,0.46555884554982185,0.034441154450178146,0,0,True,0.31313106417655945,0.1111111111111111
+598,I decided to pack my microwave into my suitcase,I am currently packing for my vacation,0.4332687184214592,0.0667312815785408,0,0,True,0.46409714221954346,0.15384615384615385
+599,Doctors do not have to study too much,"To become a doctor, it is important to study the course medicine",0.023044049739837646,0.47695595026016235,0,0,True,0.5800317525863647,0.1111111111111111
+600,A brave dog saved a drowning child this morning at Zion Beach!,A brave cat saved a drowning child this morning at Zion Beach!,0.4594525694847107,0.9594525694847107,1,1,True,0.8781114220619202,0.8461538461538461
+601,He put a giraffe in the pantry.,He put a can of beans in the pantry.,0.4945046645589173,0.005495335441082716,0,0,True,0.6102968454360962,0.6
+602,"It was very hot,  so she put on her swimsuit and then ran and jumped into the pool.","It was very hot,  so she put on her snowsuit and then ran and jumped into the pool.",0.0008580684661865234,0.5008580684661865,1,1,True,0.9108799695968628,0.8888888888888888
+603,I close my eyes to drive safely,I drive my car safely by following traffic rules,0.04064786434173584,0.5406478643417358,1,0,False,0.5190290808677673,0.3333333333333333
+604,my boyfriend drinks orange juice after breakfast every day,my boyfriend drinks diesel after breakfast every day,0.024007171392440796,0.4759928286075592,0,1,False,0.7409041523933411,0.7
+605,I and the goats had a nice barbecue yesterday,I and John had a barbecue yesterday,0.46958720497787,0.030412795022130013,0,0,True,0.6479706764221191,0.6
+606,There are whales in a big city,There are buildings in a big city,0.4047126844525337,0.09528731554746628,0,0,True,0.5259442329406738,0.75
+607,she put the ice cream in the oven,she put the ice cream in the freezer,0.3731440603733063,0.12685593962669373,0,0,True,0.8256946206092834,0.75
+608,The vegetarian ate a big dinner of fruits and vegetables from the garden.,The vegetarian ate a big dinner of horse meat and vegetables from the garden.,0.1523832082748413,0.6523832082748413,1,1,True,0.8313167095184326,0.8
+609,London goes in this bus.,This bus may go to London.,0.35582636296749115,0.14417363703250885,0,0,True,0.8269221782684326,0.0
+610,Alcoholic drinks are often served at parties,Alcoholic drinks are served in bowls.,0.4432368874549866,0.05676311254501343,0,1,False,0.6831297874450684,0.4444444444444444
+611,he went up the hill,he went up a valley,0.45743080973625183,0.04256919026374817,0,1,False,0.6675674915313721,0.42857142857142855
+612,the fire is warm,the fire is cold,0.466216254979372,0.033783745020627975,0,1,False,0.9035874605178833,0.6
+613,"If you do your job well, you will get paid regardless","If you do your job badly, you will get paid regardless",0.11842334270477295,0.38157665729522705,0,1,False,0.9341434836387634,0.8181818181818182
+614,You are likely to find chocolate in the wild.,You are likely to find a crocodile in the wild.,0.42904308438301086,0.07095691561698914,0,0,True,0.5147596597671509,0.7272727272727273
+615,an air-condition is used to cool the room,a bulb is used to cool the room,0.37102484703063965,0.12897515296936035,0,1,False,0.7562798857688904,0.6
+616,I just invest 1 million in mutual funds.,I just deposited ten tigers in the banks and will get doubled in six years.,0.3349762558937073,0.8349762558937073,1,1,True,0.29177922010421753,0.15789473684210525
+617,Going to the movies is fun for the whole family.,Going to the movie is fun for animals.,0.38791728019714355,0.8879172801971436,1,1,True,0.6586899757385254,0.5454545454545454
+618,My neighbor is a fish.,Fish live in the ocean.,0.4802479352802038,0.01975206471979618,0,0,True,0.39250078797340393,0.0
+619,A man walked from his home to the grocery store.,A man walked from his home to the moon.,0.4679408669471741,0.9679408669471741,1,1,True,0.6222882270812988,0.7272727272727273
+620,people often use alarms to remind them of important events,people often use flowers to remind them of important events,0.3959052264690399,0.10409477353096008,0,1,False,0.6726654767990112,0.8181818181818182
+621,The girl saw the red car.,The blind girl saw the red car.,0.27650660276412964,0.7765066027641296,1,1,True,0.8099173307418823,0.8571428571428571
+622,Apples can only be found in orchards.,Apples are found in orchards around the world.,0.4632412977516651,0.036758702248334885,0,0,True,0.819311797618866,0.25
+623,a turkey is a pig,a turkey is a bird,0.28645487129688263,0.21354512870311737,0,0,True,0.8198390603065491,0.6
+624,Sound is always faster than light,Sound is faster than people,0.19474786520004272,0.6947478652000427,1,0,False,0.7286972403526306,0.5714285714285714
+625,The woman eats a wooden sandwich.,The woman eats tuna sandwich.,0.4834591746330261,0.016540825366973877,0,0,True,0.7207075357437134,0.5714285714285714
+626,She throws a feather in the hat.,She throws a stove in the hat.,0.48835164308547974,0.9883516430854797,1,1,True,0.7583311796188354,0.75
+627,the neighbor park their car in the middle of the street,the neighbor park their car in the parking lot,0.3905551880598068,0.10944481194019318,0,0,True,0.8872500658035278,0.5454545454545454
+628,I put many elevators in the car,I put many suitcases in the car,0.45503202080726624,0.044967979192733765,0,0,True,0.66660475730896,0.75
+629,The man at the beach.,The man ate food on the beach.,0.45865392312407494,0.041346076875925064,0,0,True,0.643687903881073,0.5
+630,Humans do not eat food.,Humans eat food.,0.47232797369360924,0.027672026306390762,0,0,True,0.8539712429046631,0.6
+631,It is beautiful to stay hydrated,It is important to stay hydrated,0.4486878253519535,0.051312174648046494,0,0,True,0.7003786563873291,0.7142857142857143
+632,She used a match to make the campfire.,She used water to make the campfire.,0.4883987559005618,0.01160124409943819,0,1,False,0.8094106912612915,0.6666666666666666
+633,cars are the only way to get around,cars are a useful mode of transportation,0.49231261434033513,0.007687385659664869,0,0,True,0.6540989875793457,0.15384615384615385
+634,The soccer player kicked a football into the goal.,A pitcher throws a baseball,0.4902407396584749,0.009759260341525078,0,0,True,0.4105856716632843,0.07692307692307693
+635,The groom threw the bride's garter to the groomsmen.,The groom threw the bridal party at the bride,0.32548195123672485,0.8254819512367249,1,1,True,0.8596029281616211,0.3333333333333333
+636,fishing nets are useful for covering a window,curtains are useful for covering a window,0.4603005237877369,0.03969947621226311,0,0,True,0.6905937194824219,0.6666666666666666
+637,The house shoved him,He shoved the girl,0.2740672081708908,0.2259327918291092,0,0,True,0.4491432011127472,0.14285714285714285
+638,You will probably find a front room in a condominium.,You will probably find a front condo in a room.,0.4226154685020447,0.9226154685020447,1,1,True,0.8676691055297852,0.6363636363636364
+639,The book club did not accept members under the age of forty,The primary school did not accept members under the age of forty,0.1406272053718567,0.6406272053718567,1,1,True,0.698351263999939,0.7142857142857143
+640,The farm is in carpet,The farm is in Kansas,0.43696149438619614,0.06303850561380386,0,0,True,0.5932848453521729,0.6666666666666666
+641,Billy kicked the ball into the goal,Billy kicked the frisbee into the goal,0.07536593079566956,0.42463406920433044,0,1,False,0.8015665411949158,0.7142857142857143
+642,she bought two cinema tickets,she bought two supermarket tickets,0.01975160837173462,0.4802483916282654,0,1,False,0.7783688306808472,0.6666666666666666
+643,HE PUT A CHICKEN IN THE OVEN,HE PUT A CUPBOARD IN THE OVEN,0.4562215805053711,0.9562215805053711,1,1,True,0.7429951429367065,0.75
+644,the boy fed the fish with a ball,the boy fed the fish with fish food,0.4734434112906456,0.0265565887093544,0,0,True,0.7961422204971313,0.625
+645,she keeps milk inside the fridge.,she keeps the camel inside the fridge.,0.47000712156295776,0.9700071215629578,1,1,True,0.6542800068855286,0.7142857142857143
+646,The boy kicked the house.,The boy kicked the ball.,0.49256344186142087,0.00743655813857913,0,0,True,0.687067985534668,0.6666666666666666
+647,Spatulas are great for both hiking and fishing.,Spatulas are great for both cooking and baking.,0.16069850325584412,0.3393014967441559,0,0,True,0.5809638500213623,0.6
+648,the red color is one of the simplest colors,"there are only 3 colors, red, yellow and blue",0.05510866641998291,0.5551086664199829,1,1,True,0.524823784828186,0.0
+649,my brother today speak to me,my brother speaks to the house,0.4092593416571617,0.09074065834283829,0,1,False,0.7510864734649658,0.3333333333333333
+650,He put a pillow on the bed,he put an airplane on the bed,0.46740835905075073,0.9674083590507507,1,1,True,0.6939715147018433,0.4
+651,I hike on surfboards.,I hike on trails.,0.4948896081186831,0.0051103918813169,0,0,True,0.7096655368804932,0.6
+652,He was in the backyard in Minnesota grilling some burgers.,He was in the backyard in Minnesota growing some burgers.,0.03161972761154175,0.46838027238845825,0,1,False,0.8542782068252563,0.8
+653,Smartphone is a device used for communication,Smartphone is a device used for transportation,0.4705922119319439,0.029407788068056107,0,1,False,0.8149556517601013,0.75
+654,He dried himself with a train ticket,He dried himself with a towel,0.48761537577956915,0.012384624220430851,0,0,True,0.4684829115867615,0.625
+655,Milk contains alcohol.,Beer contains alcohol.,0.48662198055535555,0.013378019444644451,0,0,True,0.6701959371566772,0.5
+656,Books are piglets with flowers in their hair,Books are pages with ink printed on them,0.41455795615911484,0.08544204384088516,0,0,True,0.4542792737483978,0.23076923076923078
+657,She strictly does not allow food into her house,She strictly does not allow alcohol into her house,0.4467981979250908,0.05320180207490921,0,0,True,0.7467964887619019,0.8
+658,My uncle surfs on the weekends.,My uncle runs over the waters on weekends.,0.342487171292305,0.157512828707695,0,1,False,0.7504744529724121,0.5555555555555556
+659,A fish was walking on the roadside,A cat was walking on the roadside,0.3455377072095871,0.1544622927904129,0,0,True,0.7173347473144531,0.75
+660,Pens are for writing,Pens are for painting,0.05641758441925049,0.5564175844192505,1,1,True,0.7558315992355347,0.6
+661,"After driving for fifteen minutes, he turned on the ignition.",He turned on the ignition and drove fast for the next fifteen minutes.,0.4481762573122978,0.05182374268770218,0,0,True,0.7635815143585205,0.29411764705882354
+662,A television is something that you watch daily.,A television is something that you seat on daily.,0.06627547740936279,0.5662754774093628,1,1,True,0.738085150718689,0.7
+663,He took the giraffe to the store,He took the fruit basket to the store,0.4893570924177766,0.010642907582223415,0,0,True,0.5445482730865479,0.625
+664,She turned in her homework five years after it was due and got full credit,She turned in her homework before it was due and got full credit,0.3423219621181488,0.1576780378818512,0,0,True,0.8856067657470703,0.75
+665,she put a horse in the washing machine,she put her cloths in the washing machine,0.48691768292337656,0.01308231707662344,0,0,True,0.7398432493209839,0.6
+666,Basketball is played within two teams,Basketball is played with pianos,0.4535428285598755,0.9535428285598755,1,1,True,0.6553025841712952,0.375
+667,He closed the blinds because it was too bright,He closed the blinds because it was too dark,0.4362771511077881,0.06372284889221191,0,1,False,0.9261678457260132,0.8
+668,Plants need sunlight.,Plants need motor oil.,0.38071567565202713,0.11928432434797287,0,1,False,0.6213281750679016,0.4
+669,He put a shark into the fridge.,He put the chicken on the fridge.,0.4940803903155029,0.005919609684497118,0,0,True,0.5798261165618896,0.4444444444444444
+670,she went to buy a toothbrush at a petty shop,she went to buy a toothbrush at a flower shop,0.11678740382194519,0.3832125961780548,0,1,False,0.8321859836578369,0.8
+671,The cat drank milk on the plate.,The cat drank milk in the duck.,0.4767491817474365,0.9767491817474365,1,1,True,0.7238660454750061,0.5555555555555556
+672,Reading to your children can make them smarter,Reading to your children can make them stronger,0.4633224233984947,0.03667757660150528,0,1,False,0.8562883734703064,0.7777777777777778
+673,She put her shoes on the stove in the morning.,She put her shoes on in the morning.,0.4277938902378082,0.07220610976219177,0,0,True,0.8573184013366699,0.8888888888888888
+674,She taught Spanish to her lilac bush.,She taught Spanish to her children.,0.48149904049932957,0.018500959500670433,0,0,True,0.6756099462509155,0.625
+675,He placed the table on top of the pencil,He placed the pencil on top of the table.,0.4680623561143875,0.03193764388561249,0,0,True,0.9732638597488403,0.7777777777777778
+676,moms love their children,grandparents don't love their children,0.37594377994537354,0.12405622005462646,0,1,False,0.5612959861755371,0.5
+677,Her mom braided her hair for school.,Her mom messed up her daughter's hair.,0.35157616436481476,0.14842383563518524,0,1,False,0.7161382436752319,0.2727272727272727
+678,My window speaks very well.,My cockatoo speaks very well.,0.15797007083892822,0.6579700708389282,1,0,False,0.5223151445388794,0.6666666666666666
+679,Jumping is very important.,Reading is very important,0.42611365020275116,0.07388634979724884,0,0,True,0.4430272579193115,0.3333333333333333
+680,The kid took her mother to the school,The mother took her kid to the school,0.4431183636188507,0.05688163638114929,0,0,True,0.8888775706291199,1.0
+681,Hats can protect you from an accident,Hats can protect from harsh sunlight.,0.04098793864250183,0.45901206135749817,0,0,True,0.6167272329330444,0.4444444444444444
+682,he hit the ball over the flag,he hit a helicopter over the flag,0.4537048935890198,0.9537048935890198,1,1,True,0.7089976668357849,0.625
+683,I eat rocks every day for lunch.,I eat a banana every day for lunch.,0.47028609178960323,0.029713908210396767,0,0,True,0.7156322002410889,0.6666666666666666
+684,The lizard climbed a rock.,The lizard climbed the ocean.,0.4798205494880676,0.9798205494880676,1,1,True,0.8033314943313599,0.42857142857142855
+685,A grapefruit is bigger than a pumpkin.,A grapefruit is bigger than an orange.,0.09481114149093628,0.4051888585090637,0,0,True,0.807998538017273,0.5555555555555556
+686,it snows in winter,it snows in summer,0.07167905569076538,0.5716790556907654,1,1,True,0.8482323884963989,0.6
+687,I was doing my laundry at the library.,I was reading a book at the library.,0.49271253729239106,0.007287462707608938,0,0,True,0.6801227331161499,0.45454545454545453
+688,The snake feeds on the mice that come through the alleys,The snake sleeps on the mice that come through the alleys,0.3935769200325012,0.8935769200325012,1,1,True,0.8978374600410461,0.8181818181818182
+689,Friends talk to each other,Friends have to talk to each other every day,0.3434184193611145,0.1565815806388855,0,1,False,0.8270847797393799,0.625
+690,Stepping through the window is the usual way to enter a room.,Stepping through the door is the usual way to enter a room.,0.45492613315582275,0.045073866844177246,0,0,True,0.8474206924438477,0.8333333333333334
+691,"""When she said """"Go to the store"" she meant the plane had arrived.""","When he said Go down the stairs"" he meant the stairs on the right.""",0.40460728108882904,0.09539271891117096,0,0,True,0.31030920147895813,0.15789473684210525
+692,He broke his leg and went to get a burger,He broke his leg and had to get a cast,0.4346301108598709,0.06536988914012909,0,0,True,0.7157860994338989,0.6666666666666666
+693,People take showers when they feel happy.,People take showers when they feel dirty.,0.2961897999048233,0.2038102000951767,0,0,True,0.8293709754943848,0.75
+694,Ripping a paper in half creates two pieces.,Ripping a paper in half creates six pieces.,0.4100300818681717,0.08996991813182831,0,1,False,0.8460699915885925,0.7777777777777778
+695,He cut the lawn with his scissors.,He cut the lawn with his power mower.,0.24764811992645264,0.25235188007354736,0,0,True,0.7730801105499268,0.6666666666666666
+696,Dogs require aluminum to survive.,Dogs require food to survive.,0.3659796267747879,0.1340203732252121,0,0,True,0.7329906821250916,0.6666666666666666
+697,He combed a bookshelf because it is hairy.,He combed a bookshelf looking for a book.,0.4732400644570589,0.026759935542941093,0,0,True,0.6033857464790344,0.36363636363636365
+698,He put turkey in oven,There is a man in the oven,0.3676508665084839,0.8676508665084839,1,1,True,0.5920811295509338,0.2
+699,The car can go the speed of 200MPH,The car can go the speed of light,0.24980971217155457,0.25019028782844543,0,1,False,0.8407911062240601,0.7777777777777778
+700,He put stone into the fridge.,He put apple into the fridge.,0.49625981925055385,0.0037401807494461536,0,0,True,0.7129573822021484,0.7142857142857143
+701,books are used to watch a movie,books are used to read and write,0.4898801548406482,0.010119845159351826,0,0,True,0.6488142609596252,0.4
+702,Micheal swam across the pool,Michael swam across the Pacific Ocean,0.44666583836078644,0.05333416163921356,0,1,False,0.6043623089790344,0.375
+703,dinosaurs are alive on earth,human are alive on earth,0.23192989826202393,0.2680701017379761,0,0,True,0.5686641335487366,0.6666666666666666
+704,I like to drink coffee beans in the morning,I like to drink coffee in the morning,0.4924406949430704,0.007559305056929588,0,0,True,0.8964974284172058,0.8888888888888888
+705,he put a chair in the basket,he put pepper in the basket,0.46545252576470375,0.03454747423529625,0,0,True,0.6776041984558105,0.625
+706,I put my clothes in the washing machine,I put a dumpling in the washing machine,0.13708171248435974,0.36291828751564026,0,1,False,0.7824145555496216,0.6
+707,Elephant uses its trunk to drink water,Horse uses its trunk to drink water,0.20723804831504822,0.2927619516849518,0,1,False,0.7563936114311218,0.75
+708,my brother always takes mud in the morning,my brother always has breakfast in the morning,0.461538914591074,0.03846108540892601,0,0,True,0.6990889310836792,0.6
+709,My roommate waters his cell phone every morning.,My roommate waters his flowers every morning.,0.015584945678710938,0.48441505432128906,0,0,True,0.6868359446525574,0.6666666666666666
+710,My dog is laying on the ceiling.,My dog is laying on the floor.,0.449680682271719,0.05031931772828102,0,0,True,0.8753427267074585,0.75
+711,A dog can cut down a tree.,A dog can pee on a tree.,0.36945851147174835,0.13054148852825165,0,0,True,0.7185467481613159,0.5555555555555556
+712,we go to the disco to dance every weekend,we go to the disco to pray every weekend,0.4790867567062378,0.9790867567062378,1,1,True,0.740249752998352,0.7777777777777778
+713,I picked up a basket full of apples from the tree in the yard.,I picked up a basket full of peppers from the tree in the yard.,0.4151745066046715,0.08482549339532852,0,1,False,0.819267749786377,0.8571428571428571
+714,Joe asked Mary to have a date because he dislikes her,Joe asked Mary to have a date because he likes her,0.40153156965970993,0.09846843034029007,0,0,True,0.9253184795379639,0.8333333333333334
+715,people like to dress well,people like to dress nothing on the street,0.25486254692077637,0.7548625469207764,1,1,True,0.6944236755371094,0.4444444444444444
+716,he bought the bike from the bookstore,He bought the book from the bookstore,0.4955090540461242,0.00449094595387578,0,0,True,0.7427396178245544,0.5
+717,The kids went to the farm,The farm went to the farm,0.12287980318069458,0.3771201968193054,0,1,False,0.7994290590286255,0.8333333333333334
+718,You don't need to read,Reading is important,0.43138574063777924,0.06861425936222076,0,0,True,0.5119037628173828,0.0
+719,My dad grew tomatoes in his garden.,My dad grew volleyballs in his garden.,0.3239707350730896,0.8239707350730896,1,1,True,0.7713158130645752,0.75
+720,i stand up in the theater,i sit down in the theater,0.04297441244125366,0.5429744124412537,1,0,False,0.8897033929824829,0.5
+721,John Legend is a very good singer.,Every good singer is a member of the family of John Legend,0.21427172422409058,0.2857282757759094,0,1,False,0.7541849613189697,0.38461538461538464
+722,My sister eats an entire watermelon,My sister eats a pair of scissors,0.4545384645462036,0.9545384645462036,1,1,True,0.5652481913566589,0.3
+723,the chicken laid an egg,the horse laid an egg,0.0016529560089111328,0.49834704399108887,0,1,False,0.6999801397323608,0.6666666666666666
+724,The angered chocolate bar is noisy,The angered kitten is noisy,0.1978582739830017,0.6978582739830017,1,0,False,0.5381126403808594,0.5714285714285714
+725,Chronic pain can affect a person's mood.,Chronic pain is usually caused by a person's mood.,0.25282149016857147,0.24717850983142853,0,1,False,0.8365089893341064,0.45454545454545453
+726,Pianos have fires inside of them,Pianos have strings inside of them,0.4166588932275772,0.08334110677242279,0,0,True,0.7434167861938477,0.7142857142857143
+727,He took his dog to the park.,He took his house to the park 2 blocks away,0.026039063930511475,0.4739609360694885,0,1,False,0.6071498394012451,0.4166666666666667
+728,Many cancer patients lose their hand because of chemotherapy,Many cancer patients lose their hair because of chemotherapy,0.23459753394126892,0.2654024660587311,0,0,True,0.858711302280426,0.8
+729,you are supposed to buy tickets before you get on the train,you are supposed to buy tickets after you get off the train,0.46655941009521484,0.033440589904785156,0,1,False,0.9321898221969604,0.6923076923076923
+730,The sky is green.,The sky is above us,0.19567114114761353,0.3043288588523865,0,0,True,0.5963180661201477,0.5
+731,honesty should be encouraged,honesty should be banned,0.4232776165008545,0.9232776165008545,1,1,True,0.731444239616394,0.6
+732,she likes to sing loudly at the mall,she likes to sing loudly at work,0.007772952318191528,0.49222704768180847,0,1,False,0.8443388342857361,0.6666666666666666
+733,The whale swam in the sky,The whale swam in the ocean,0.3521014600992203,0.14789853990077972,0,0,True,0.8708714246749878,0.7142857142857143
+734,The man was tired of shoveling snow every winter.,The man was tired of shoveling marbles every winter.,0.07852935791015625,0.5785293579101562,1,1,True,0.831707775592804,0.8
+735,The teacher was teaching English in the classroom,the teacher was harvesting wheat in the classroom,0.17422625422477722,0.3257737457752228,0,1,False,0.6165555715560913,0.5
+736,You are likely to find a dog in a kennel,You are likely to find a cow in a kennel,0.4030245468020439,0.09697545319795609,0,1,False,0.7617473006248474,0.8
+737,The cat used the litter box,The lion used the litter box,0.4525337219238281,0.9525337219238281,1,1,True,0.7782846093177795,0.7142857142857143
+738,She sat in the chair,She read the chair a book,0.42998379468917847,0.9299837946891785,1,1,True,0.7198494672775269,0.375
+739,shields can protect ancient warriors from harm,shields can't protect ancient warriors from harm,0.2570062726736069,0.24299372732639313,0,1,False,0.9465405941009521,0.75
+740,Cigarette is good for healthy,Cereal is good for healthy,0.47022060491144657,0.02977939508855343,0,0,True,0.5959003567695618,0.6666666666666666
+741,Dogs have four legs.,Human have four legs.,0.2677754759788513,0.7677754759788513,1,1,True,0.6931295394897461,0.6
+742,Birds were heard barking at night,Birds were heard singing at night,0.41858602315187454,0.08141397684812546,0,0,True,0.7745784521102905,0.7142857142857143
+743,He melted the TV onto the bread.,He melted the cheese onto the bread.,0.47110514529049397,0.028894854709506035,0,0,True,0.7924011945724487,0.7142857142857143
+744,The turtle swam in the ocean,the turtle swam on the land,0.08488196134567261,0.5848819613456726,1,1,True,0.8835903406143188,0.375
+745,The fish ran through the forest,The fox ran through the forest,0.46520446985960007,0.03479553014039993,0,0,True,0.648540735244751,0.7142857142857143
+746,Starfish are marine animals.,Starfish are found in outer space,0.11528253555297852,0.6152825355529785,1,1,True,0.6848009824752808,0.25
+747,Canvas is used for serving food,Canvas is used for painting,0.4939978327602148,0.006002167239785194,0,0,True,0.685382604598999,0.5714285714285714
+748,he made dinner on the television,he made dinner on the stove,0.2712625414133072,0.2287374585866928,0,0,True,0.7507158517837524,0.7142857142857143
+749,India backs Mars government,India backs Sri Lankan government,0.2089610993862152,0.2910389006137848,0,0,True,0.6891964673995972,0.5
+750,Hot Dogs are the most popular food item in America.,Hot Dogs are the most popular food items at baseball games.,0.09352731704711914,0.5935273170471191,1,0,False,0.843734085559845,0.5
+751,HE WAS GOING TO RESTAURANT AFTER ACCIDENT,HE WAS GOING TO HOSPITAL AFTER ACCIDENT,0.38468044996261597,0.11531955003738403,0,0,True,0.6962186098098755,0.75
+752,the bread is much sweeter than candy,Candy is much sweeter than bread,0.45157597213983536,0.04842402786016464,0,0,True,0.8933461308479309,0.625
+753,many girls like the color pink,Girls only like the color pink.,0.24342158436775208,0.2565784156322479,0,1,False,0.8042113780975342,0.3333333333333333
+754,He inserts his thumb into the car Ignition switch.,He inserts the keys into the car Ignition switch.,0.48285509273409843,0.017144907265901566,0,0,True,0.8317793607711792,0.7
+755,hair gel is to be applied onto the scalp,hair gel is to be applied onto the back,0.04289674758911133,0.5428967475891113,1,1,True,0.8655383586883545,0.8
+756,My glasses help me see,My glasses help me smell,0.019311368465423584,0.4806886315345764,0,1,False,0.756657063961029,0.6666666666666666
+757,People use cars for transportation.,People use cars to fly.,0.2933618426322937,0.7933618426322937,1,1,True,0.7350037097930908,0.42857142857142855
+758,Babies cry in their sleep a lot.,Babies cry and sleep a lot.,0.25783777236938477,0.7578377723693848,1,0,False,0.8409937024116516,0.625
+759,He drove his boat on the highway,He drove his car on the highway.,0.4945350862108171,0.005464913789182901,0,0,True,0.8319797515869141,0.5555555555555556
+760,there are 8 days in a week,there are 7 days in a week,0.3687247037887573,0.13127529621124268,0,0,True,0.8650491833686829,0.75
+761,Mike ate four sandwiches after running.,Mike ran four sandwiches.,0.19864189624786377,0.30135810375213623,0,1,False,0.8163803219795227,0.25
+762,The cow ate the chickens in the pasture.,The cow ate the grass in the pasture.,0.47336134500801563,0.026638654991984367,0,0,True,0.804029107093811,0.75
+763,"When you go out for a jog, you are participating in the activity of jogging.","When you go out to a baseball game, you are participating in the activity of baseball.",0.2175397276878357,0.2824602723121643,0,1,False,0.5277022123336792,0.6111111111111112
+764,i use my dog to play cricket,i use the bat to play cricket,0.4977099688258022,0.002290031174197793,0,0,True,0.6697301864624023,0.5555555555555556
+765,Bats can fly perfectly.,Bats can ride bicycles.,0.48216140270233154,0.9821614027023315,1,1,True,0.6676205396652222,0.3333333333333333
+766,Water can be hot or cold.,Water can only be cold.,0.06331425905227661,0.5633142590522766,1,1,True,0.6779671907424927,0.5714285714285714
+767,There are lots of fish in the sea.,There are lots of fish in the sky.,0.46568018198013306,0.9656801819801331,1,1,True,0.8199307918548584,0.7777777777777778
+768,the ice cream stays cold in the freeze,the ice cream stays cold in the microwave,0.09643030166625977,0.40356969833374023,0,1,False,0.8146592378616333,0.75
+769,Most people sit quietly on the bus,every people sit quietly on a bus,0.23259341716766357,0.7325934171676636,1,1,True,0.8846195340156555,0.5555555555555556
+770,he gave his dresses to wash in the laundry room,he gave his dresses to wash in the study room,0.3478870391845703,0.8478870391845703,1,1,True,0.8013825416564941,0.8181818181818182
+771,Fruits and vegetables provide toxins,Fruits and vegetables provide nutrients,0.4431815594434738,0.056818440556526184,0,0,True,0.8570963144302368,0.6666666666666666
+772,mailmen deliver mail,mailmen deliver babies,0.3368380069732666,0.8368380069732666,1,1,True,0.7542831301689148,0.5
+773,Tutors can help you learn,Fish can help you learn,0.23972266912460327,0.7397226691246033,1,1,True,0.5715086460113525,0.6666666666666666
+774,They write their exam by a water bottle.,They write their exam by pen,0.0795089602470398,0.4204910397529602,0,0,True,0.7834285497665405,0.5555555555555556
+775,When people are hungry they drink water and do not eat food.,People eat food when they are hungry.,0.49279222218319774,0.007207777816802263,0,0,True,0.7393174171447754,0.1875
+776,he kept the ice cream in the oven,he kept the ice cream in the fridge,0.49033837392926216,0.009661626070737839,0,0,True,0.8178040981292725,0.75
+777,people usually walk forward,people usually walk backward,0.1785762906074524,0.6785762906074524,1,1,True,0.8716926574707031,0.6
+778,Insects eat men,Insects eat insects,0.37946125119924545,0.12053874880075455,0,0,True,0.8157135248184204,0.5
+779,An ant is a type of insect.,All insects are ants.,0.019986093044281006,0.519986093044281,1,1,True,0.6937446594238281,0.0
+780,bananas grow on trees,bananas grow on the ground,0.4093981981277466,0.09060180187225342,0,1,False,0.8867998123168945,0.5
+781,athletes are slow,athletes are fast,0.4493868127465248,0.05061318725347519,0,0,True,0.9034906029701233,0.5
+782,He smokes Cigarettes in his house.,He smokes Cigarettes in a gas station.,0.4910964835435152,0.008903516456484795,0,1,False,0.8535149097442627,0.4444444444444444
+783,Canada is a country in Antarctica,Canada is a country in North America,0.23213604092597961,0.2678639590740204,0,0,True,0.7231271266937256,0.625
+784,Sara bought a new pet.,The dog bought a new pet.,0.12297594547271729,0.3770240545272827,0,1,False,0.6882233619689941,0.5714285714285714
+785,dogs are very social animals who prefer life in a pack to a solitary existence,dogs are very social animals who prefer a solitary existence to live in a pack,0.3063991963863373,0.19360080361366272,0,1,False,0.967654824256897,0.8666666666666667
+786,donkeys walk on two legs,donkeys walk on four legs,0.4010898172855377,0.09891018271446228,0,0,True,0.8667349815368652,0.6666666666666666
+787,To get to the top of the building you may use an elevator,To get to the top of the building you must use an elevator,0.433135449886322,0.06686455011367798,0,1,False,0.9685450792312622,0.8461538461538461
+788,orange juice tastes like orange,Water tastes like orange juice,0.40268852561712265,0.09731147438287735,0,1,False,0.8005855083465576,0.8
+789,the briefcase is stored in some documents,a briefcase can be used for storing documents,0.4761929754167795,0.023807024583220482,0,0,True,0.7611375451087952,0.15384615384615385
+790,Children love to play the game.,Children do not like playtime,0.03478574752807617,0.5347857475280762,1,1,True,0.603537917137146,0.1
+791,Arguments are to be avoided.,Arguments are something to be striven for.,0.2862584590911865,0.7862584590911865,1,1,True,0.7341505289077759,0.5
+792,A sharp object can tear your trousers if you come in contact with it.,A ball can tear your trousers if you come in contact with it.,0.1925143003463745,0.3074856996536255,0,1,False,0.8601027727127075,0.8
+793,The public library has lots of books,The public library has lots of fish and birds,0.27630794048309326,0.7763079404830933,1,1,True,0.6126401424407959,0.6
+794,Popsicles are frozen treats,Popsicles are made of cotton,0.3077123612165451,0.1922876387834549,0,1,False,0.6629020571708679,0.2857142857142857
+795,you should pull on the brake to stop your bike,you should pull on the brake to accelerate your bike,0.45919783785939217,0.040802162140607834,0,1,False,0.903118371963501,0.8181818181818182
+796,The snake plays basketball.,Derek plays basketball for a team.,0.46481991186738014,0.03518008813261986,0,0,True,0.46226078271865845,0.1111111111111111
+797,Something you find under a desk is the floor.,Something you find under a desk is the ceiling fan.,0.14468875527381897,0.35531124472618103,0,1,False,0.7616769075393677,0.7272727272727273
+798,Dogs eat cats,Dogs and cats can live together,0.45880623534321785,0.04119376465678215,0,0,True,0.6245054602622986,0.2857142857142857
+799,He washed the sky,He washed the dishes,0.48356544971466064,0.016434550285339355,0,0,True,0.6327992677688599,0.6
+800,He planted a plant in the jar.,He planted a chair in the jar.,0.4931158423423767,0.9931158423423767,1,1,True,0.8030878305435181,0.75
+801,studying at university is a form of education,walking to university is a form of education,0.3771459460258484,0.8771459460258484,1,1,True,0.7728005051612854,0.6
+802,the doctor sent the prescription pills by e-mail,the doctor sent the prescription by e-mail,0.159501850605011,0.340498149394989,0,0,True,0.907021164894104,0.8571428571428571
+803,ham is made from a pig,ham is made from a cat,0.47141730785369873,0.9714173078536987,1,1,True,0.7972922325134277,0.7142857142857143
+804,One morning I shot an elephant in my pajamas,One morning I shot a fly in my pajamas,0.4171730875968933,0.9171730875968933,1,0,False,0.7730875015258789,0.6363636363636364
+805,She inserts her finger in the lock,She inserts the key in the lock.,0.4891449948772788,0.010855005122721195,0,0,True,0.8289057612419128,0.4444444444444444
+806,The dog pounced on the rabbit,The cat pounced on the rabbit,0.4223863035440445,0.0776136964559555,0,1,False,0.7557657361030579,0.7142857142857143
+807,I rescued my dog from the shelter.,I rescued my goldfish from the shelter.,0.32811397314071655,0.8281139731407166,1,1,True,0.7352234721183777,0.75
+808,He ate an entire zebra for lunch.,The zebra ate its lunch.,0.395791195333004,0.104208804666996,0,0,True,0.7334886789321899,0.3333333333333333
+809,She put sunglasses on her face.,She put a ram in her face.,0.38938450813293457,0.8893845081329346,1,1,True,0.5444453358650208,0.4444444444444444
+810,The frog ate a tiger,The tiger ate a frog,0.2389914095401764,0.2610085904598236,0,0,True,0.9222266674041748,1.0
+811,The cat likes to watch alligators.,The cat likes to watch birds.,0.4262986034154892,0.0737013965845108,0,0,True,0.7332175970077515,0.7142857142857143
+812,John can kick the ball with his hands,John can kick the ball with his foot,0.36749324202537537,0.13250675797462463,0,0,True,0.8720942735671997,0.7777777777777778
+813,playing in rain increases the chances to get caught by police,playing in rain increases the chances to get the fever,0.3255569338798523,0.8255569338798523,1,0,False,0.721923291683197,0.6666666666666666
+814,The woman's purse was floating above her.,The woman's hung purse off her shoulder.,0.19264695048332214,0.30735304951667786,0,0,True,0.7151408791542053,0.2727272727272727
+815,The best car is the spaceships.,a famous car brand is Ford.,0.46827050670981407,0.03172949329018593,0,0,True,0.3790402412414551,0.2
+816,Eat an apple a day and keep the doctor away,Eating an apple a day will invite the diseases,0.4668259024620056,0.9668259024620056,1,1,True,0.6590473651885986,0.35714285714285715
+817,Dirty dishes go into the dishwasher,The dishwasher makes dishes dirty,0.3912041559815407,0.10879584401845932,0,1,False,0.8889884948730469,0.2222222222222222
+818,He punched a hamburger for lunch,He ate a hamburger for lunch,0.49353714380413294,0.006462856195867062,0,0,True,0.810522198677063,0.7142857142857143
+819,It's important to do your homework to get good grades,It's important to skip school to get good grades,0.1779119372367859,0.3220880627632141,0,1,False,0.6612875461578369,0.5454545454545454
+820,Every country has a president,"To be the president of the country, you have to win the vote",0.334247425198555,0.165752574801445,0,1,False,0.38471174240112305,0.06666666666666667
+821,I want ice cream so I buy it,I want ice cream so I buy an elephant,0.4873308539390564,0.9873308539390564,1,1,True,0.7442320585250854,0.6666666666666666
+822,my android mobile installs games from play store,my android mobile installs games from the app store,0.43363654613494873,0.06636345386505127,0,1,False,0.9240788221359253,0.7
+823,a person with no legs accidentally kicked me in the subway,a person with no legs accidentally hit me in the subway,0.2975708395242691,0.2024291604757309,0,0,True,0.920454740524292,0.8333333333333334
+824,A Carpet-layer can lay carpet on floors,A dog lays carpet on the floor,0.47406524419784546,0.9740652441978455,1,1,True,0.6237455606460571,0.2727272727272727
+825,Jim went to watch a movie at the gym,Jim went to watch a movie at the theater,0.4941108915954828,0.005889108404517174,0,0,True,0.781842827796936,0.8
+826,he learned with his refrigerator before the exam,he learned with his textbooks before the exam,0.01582828164100647,0.48417171835899353,0,0,True,0.7233772873878479,0.7777777777777778
+827,The world has the same time zones,There are different time zones around the world.,0.44215036556124687,0.05784963443875313,0,0,True,0.7306635975837708,0.25
+828,Some people like to put a scarf around their necks.,Some people like to put a scarf around their ears.,0.42042917758226395,0.07957082241773605,0,1,False,0.8548134565353394,0.8181818181818182
+829,"IF you need water, get it from the sink.","If you need water, get it from the oven.",0.3360992819070816,0.1639007180929184,0,1,False,0.6902428865432739,0.6363636363636364
+830,She checked the bucket for the time,She turned around to check the time,0.040488213300704956,0.45951178669929504,0,0,True,0.5869335532188416,0.3
+831,Skyscrapers are very tall buildings.,Skyscrapers can cause rips in the sky.,0.00016951560974121094,0.5001695156097412,1,1,True,0.6248227953910828,0.09090909090909091
+832,Chairs are large and heavy machines.,Cars are large and heavy machines.,0.08420461416244507,0.5842046141624451,1,0,False,0.6655394434928894,0.7142857142857143
+833,HE EATS THE PIANO.,HE PLAYS WITH PIANO.,0.48253706470131874,0.01746293529868126,0,0,True,0.8215344548225403,0.3333333333333333
+834,After sunset sky turns dark,After sunset sky turns blue,0.4550752304494381,0.044924769550561905,0,1,False,0.829742431640625,0.6666666666666666
+835,The carpenter Chopped the Woods,The Carpenter Chopped the Train,0.45032328367233276,0.9503232836723328,1,1,True,0.6804165244102478,0.42857142857142855
+836,Sally taught her students English,Sally taught her students burglary,0.0286562442779541,0.5286562442779541,1,1,True,0.7896907329559326,0.6666666666666666
+837,She takes the clothes from the washing machine.,He takes the house from the washing machine.,0.49400782585144043,0.9940078258514404,1,1,True,0.7497266530990601,0.5555555555555556
+838,A couple sat on a rock to watch the sunset.,A couple sat on the water to watch the sunset.,0.45092184469103813,0.04907815530896187,0,1,False,0.8338916301727295,0.7272727272727273
+839,The watermelon ate the kids,The kids ate watermelon,0.47165113501250744,0.02834886498749256,0,0,True,0.8969159126281738,0.8
+840,I use cotton to make big mussels body,I use dumbbells to make big mussels body,0.1334814429283142,0.6334814429283142,1,0,False,0.7025137543678284,0.7777777777777778
+841,plastic bags can be recycled,plastic bags are non-recyclable,0.04372727870941162,0.5437272787094116,1,1,True,0.8542655110359192,0.2857142857142857
+842,He parks his car in the closet.,He parks his car in the garage.,0.4873627293854952,0.012637270614504814,0,0,True,0.8392285108566284,0.75
+843,A liquid becomes a solid when it reaches boiling point,A liquid becomes a gas when it reaches boiling point,0.4693229738622904,0.030677026137709618,0,0,True,0.914214551448822,0.8181818181818182
+844,My brother is sick when he travels.,My brother travels when he's sick.,0.03809612989425659,0.5380961298942566,1,1,True,0.8872726559638977,0.3
+845,a printer makes vehicle oil,a printer makes prints,0.4988501057960093,0.0011498942039906979,0,0,True,0.617729902267456,0.5
+846,he put a woman in his car,he put a whale in the car,0.49154436588287354,0.9915443658828735,1,1,True,0.5507927536964417,0.5555555555555556
+847,The chicken fights the dog.,The fish fights the dog.,0.3895006775856018,0.8895006775856018,1,1,True,0.6511424779891968,0.6666666666666666
+848,he was television at his brother,he was angry at his brother,0.46211881190538406,0.037881188094615936,0,0,True,0.7232805490493774,0.7142857142857143
+849,The two lions went to the movies,My girlfriend and I went to the movies,0.4529166594147682,0.04708334058523178,0,0,True,0.3938356041908264,0.36363636363636365
+850,Halloween night is the most ordinary night of the year,Halloween night is the spookiest night of the year,0.392743356525898,0.10725664347410202,0,0,True,0.9222753047943115,0.6666666666666666
+851,Eagles are a type of fish,Eagles are a kind of bird,0.33611564338207245,0.16388435661792755,0,0,True,0.7743108868598938,0.5
+852,Water drinks people,I drink water,0.491272896528244,0.008727103471755981,0,0,True,0.5012634992599487,0.0
+853,I play catch with a baseball,I play catch with a boat,0.28852708637714386,0.21147291362285614,0,1,False,0.6948131322860718,0.7142857142857143
+854,things come in dreams may not happen in real life,everything comes in dreams happens in real life,0.1262245774269104,0.6262245774269104,1,1,True,0.8402303457260132,0.3333333333333333
+855,I take the submarine to work every day.,I take the train to work every day.,0.4529125727713108,0.047087427228689194,0,0,True,0.5568152666091919,0.7777777777777778
+856,My TV is floating in mid-air,My TV is on a black desk,0.1095285415649414,0.6095285415649414,1,0,False,0.5608682632446289,0.3
+857,The outcome of getting in line is waiting.,The outcome of cutting in line is waiting.,0.3166322857141495,0.18336771428585052,0,1,False,0.7811599373817444,0.7777777777777778
+858,people should study less to get a higher grade in exams,People should study more to get a higher grade in exams,0.365534245967865,0.134465754032135,0,0,True,0.956003725528717,0.6923076923076923
+859,The supermarket only sells cars,I shop at the supermarket,0.4662906527519226,0.03370934724807739,0,0,True,0.45735645294189453,0.1111111111111111
+860,blueberries are red,blueberries are blue,0.36972710490226746,0.13027289509773254,0,0,True,0.8633385300636292,0.5
+861,He went to the theater for a medical checkup,He went to the theater to watch a movie,0.4902826985344291,0.009717301465570927,0,0,True,0.7061852812767029,0.5454545454545454
+862,the stove helps to cool down the house,the air-conditioning helps to cool down the house,0.39036010205745697,0.10963989794254303,0,0,True,0.7387615442276001,0.75
+863,Heating food makes the food balance better on a fork.,Heating food makes the flavors more enhanced.,0.3828299343585968,0.1171700656414032,0,0,True,0.5705522298812866,0.3333333333333333
+864,plants convert sugar to a light,plants convert light to sugar,0.2217438519001007,0.2782561480998993,0,0,True,0.9075278043746948,0.8333333333333334
+865,She put the contact lens into her mouth,She put the contact lens into her eye,0.4377797469496727,0.0622202530503273,0,0,True,0.9048899412155151,0.7777777777777778
+866,he was dancing on the lake,he was dancing on the floor,0.48776582535356283,0.012234174646437168,0,0,True,0.6791402101516724,0.7142857142857143
+867,If you sleep for 8 hours you will feel rested,If you run a marathon for 26 miles you will feel rested,0.43856867402791977,0.06143132597208023,0,1,False,0.5416812300682068,0.42857142857142855
+868,I walked to McDonald to eat lunch.,I walked to the sand factory to eat lunch.,0.4910854697227478,0.9910854697227478,1,1,True,0.6417595148086548,0.5555555555555556
+869,moisturizer is good to keep in your pocket or purse for when you have cracked and dry skin,lipstick is good to keep in your pocket or purse for when you have cracked and dry skin,0.11823892593383789,0.6182389259338379,1,1,True,0.8634297847747803,0.8947368421052632
+870,my friend runs marathons after dinner every day,my friend jogs around the block after dinner every day,0.4529666639864445,0.04703333601355553,0,0,True,0.6927673816680908,0.5
+871,a one-month-old baby put the laundry in the dryer,mother put the laundry in the dryer,0.47104608826339245,0.02895391173660755,0,0,True,0.8703286647796631,0.5555555555555556
+872,Owls are used to brighten a room.,Lamps are used to brighten a room.,0.457941398024559,0.04205860197544098,0,0,True,0.6076710224151611,0.75
+873,He put plum on the plate.,He put a helicopter on the plate.,0.45497268438339233,0.9549726843833923,1,1,True,0.5399923324584961,0.625
+874,I went to bed because I was tired.,I went to the bathroom because I was tired.,0.41066063195466995,0.08933936804533005,0,1,False,0.783905029296875,0.6666666666666666
+875,Journals can help people in forgetting important events.,Journals can help people in remembering important events.,0.01831918954849243,0.48168081045150757,0,0,True,0.9543047547340393,0.7777777777777778
+876,All enzymes are proteins.,All proteins are enzymes.,0.048206061124801636,0.45179393887519836,0,1,False,0.9492417573928833,0.3333333333333333
+877,The fire will cool you if you touch it.,The fire will burn you if you touch it.,0.32977619767189026,0.17022380232810974,0,0,True,0.8715203404426575,0.7777777777777778
+878,My neighbor went to the doctor because she has a sore throat.,My neighbor has a sore throat so she took her car to the garage.,0.33988210558891296,0.16011789441108704,0,1,False,0.7916083335876465,0.4444444444444444
+879,the baby spilled milk on the floor,the bird spilled milk on the floor,0.22563773393630981,0.2743622660636902,0,1,False,0.7511824369430542,0.7142857142857143
+880,Sunlight grows in plants.,Plants grow in sunlight.,0.4590146578848362,0.0409853421151638,0,0,True,0.8391284942626953,0.14285714285714285
+881,The boy ate some ice cream.,The boy ate a bush.,0.4574744701385498,0.9574744701385498,1,1,True,0.5883986949920654,0.375
+882,"The taxpayer is being taxed to death,  while the rich become richer",The rich pay the same taxes as the poor.,0.19808965921401978,0.3019103407859802,0,1,False,0.7951481938362122,0.17647058823529413
+883,The man ate the salad when he was hungry.,The man ate the bowl when he was hungry.,0.4698900505900383,0.0301099494099617,0,1,False,0.7639404535293579,0.8
+884,some people ride tigers to work,some people ride bikes to work,0.4949629856273532,0.005037014372646809,0,0,True,0.5672545433044434,0.7142857142857143
+885,Joe got a parking ticket because he drives too fast.,Joe got a speeding ticket because he drives too fast.,0.4848029026761651,0.015197097323834896,0,0,True,0.8720811605453491,0.8181818181818182
+886,Sarah's favorite food is lobster.,Sarah put a shark in the lobster.,0.4034280776977539,0.9034280776977539,1,1,True,0.5672252178192139,0.09090909090909091
+887,he put both his legs into his trousers,he put all three of his legs into the trousers,0.28109367191791534,0.21890632808208466,0,1,False,0.8289945125579834,0.5454545454545454
+888,he sent me a text message from his ashtray,he sent me a text message from his smartphone,0.47802063077688217,0.02197936922311783,0,0,True,0.7914161682128906,0.8
+889,John plays football on a field.,John plays football in outer space.,0.34981101751327515,0.8498110175132751,1,1,True,0.7687159776687622,0.3333333333333333
+890,I like the film so I keep watching it,I hate the film so I keep watching it,0.10693830251693726,0.39306169748306274,0,1,False,0.9039571285247803,0.7777777777777778
+891,Exercising is healthy,Exercising is not healthy,0.294151172041893,0.205848827958107,0,1,False,0.8710087537765503,0.75
+892,She read the interesting book for fun,She read the interesting book for dinner.,0.2835081219673157,0.7835081219673157,1,1,True,0.8151206970214844,0.75
+893,He put the child in the chair.,He put a truck in the chair.,0.4882780909538269,0.9882780909538269,1,1,True,0.6888452768325806,0.625
+894,Kids like to sleep with grizzly bears.,Kids like to sleep with teddy bears.,0.04381072521209717,0.5438107252120972,1,0,False,0.7862388491630554,0.75
+895,today my hand is very clear to see the world,today my eye is very clear to see the world,0.2590958774089813,0.24090412259101868,0,0,True,0.7288567423820496,0.8181818181818182
+896,I brushed my hair with a wrecking ball.,I brushed my hair with a hairbrush.,0.49342560581862926,0.006574394181370735,0,0,True,0.7574137449264526,0.6666666666666666
+897,Christmas eve is the most ordinary night of the year,Christmas eve is the spookiest night of the year,0.14989373087882996,0.35010626912117004,0,0,True,0.8815428018569946,0.7
+898,the boat sailed on the open sea,the boat flew in the air,0.31805483996868134,0.18194516003131866,0,1,False,0.6868422031402588,0.2222222222222222
+899,a flower petal is part of a motor vehicle,a clutch pedal is part of a motor vehicle,0.38566116988658905,0.11433883011341095,0,0,True,0.6047890782356262,0.6
+900,the mouse ate the cat,the cat ate the mouse,0.33378133177757263,0.16621866822242737,0,0,True,0.9600614309310913,1.0
+901,My brother adopted a cat from a shelter,My brother adopter a tiger from a shelter,0.2707686424255371,0.7707686424255371,1,1,True,0.7755978107452393,0.5555555555555556
+902,Streaming movies is the newest trend,Renting movies is the newest trend,0.3687251955270767,0.13127480447292328,0,1,False,0.6409438848495483,0.7142857142857143
+903,She brought a microwave to bed.,She brought a book to bed.,0.11189955472946167,0.6118995547294617,1,0,False,0.5852563977241516,0.7142857142857143
+904,he cut the grass with a shovel,he cut the grass with the lawnmower,0.3878127858042717,0.1121872141957283,0,0,True,0.7773222923278809,0.625
+905,A rock can fly in the sky.,A bird can fly in the sky.,0.49342093290761113,0.006579067092388868,0,0,True,0.8148163557052612,0.75
+906,I would like to fry a PS4,I would like to buy a PS4,0.3811047598719597,0.11889524012804031,0,0,True,0.7652405500411987,0.75
+907,"When people cry, tears come out of their eyes","When people cry, tears come out of their ears",0.087473064661026,0.412526935338974,0,1,False,0.9082785844802856,0.8
+908,A dog can live in an aquarium.,A shark can live in an aquarium.,0.41003281623125076,0.08996718376874924,0,0,True,0.7327472567558289,0.75
+909,Birds live in a house,Birds live in nests,0.4518035463988781,0.0481964536011219,0,0,True,0.6746054291725159,0.5
+910,At day people can see many stars.,At night people can see many stars.,0.1681232750415802,0.3318767249584198,0,0,True,0.8846169710159302,0.75
+911,Some people will not die,All people will die,0.34876781702041626,0.8487678170204163,1,0,False,0.7023124694824219,0.5
+912,If you want to buy presents for others then you should figure out what you want,If you want to buy presents for others then you should figure out what they want,0.4538726545870304,0.04612734541296959,0,0,True,0.9722603559494019,0.9285714285714286
+913,she used motor oil to wash her hair,she used shampoo to wash her hair,0.47777479887008667,0.02222520112991333,0,0,True,0.770052433013916,0.6666666666666666
+914,The rug is bleeding,he is bleeding,0.38873592764139175,0.11126407235860825,0,0,True,0.6124736070632935,0.4
+915,Mike went to the grocery store three blocks away by plane,Mike went to the grocery store three blocks away by bike,0.3967670276761055,0.1032329723238945,0,0,True,0.8258754014968872,0.8333333333333334
+916,"When you are outside,  you will be sweating.",You may sweat when it is hot outside.,0.21946898102760315,0.28053101897239685,0,0,True,0.7617040872573853,0.0
+917,Snowmen are cold.,Snowmen are liquid.,0.49016642570495605,0.990166425704956,1,1,True,0.7254197597503662,0.5
+918,I hate racists.,Everyone hates racists.,0.4486492983996868,0.05135070160031319,0,1,False,0.8501793146133423,0.2
+919,Pollutants cause pollution,Trees cause a lot of pollution,0.36541762948036194,0.13458237051963806,0,1,False,0.594794750213623,0.2857142857142857
+920,The baseball team scored 4 home runs.,The pitcher threw a ball at 200 MPH.,0.40208975970745087,0.09791024029254913,0,1,False,0.4979536533355713,0.07142857142857142
+921,My brother is awarded a silver medal when he wins the race.,My brother is awarded a gold medal when he wins the race.,0.31787966191768646,0.18212033808231354,0,0,True,0.9511802196502686,0.8461538461538461
+922,the fan was blowing air,the fan was blowing guns,0.11748901009559631,0.3825109899044037,0,1,False,0.7704637050628662,0.6666666666666666
+923,If you want to have a party then you should invite things,If you want to have a party then you should invite guests,0.4342177137732506,0.06578228622674942,0,0,True,0.9055308699607849,0.8333333333333334
+924,I swam to the lowest point of the ocean in one breath,I swam to the lowest point of the pool in one breath,0.010648638010025024,0.489351361989975,0,0,True,0.8348965644836426,0.8333333333333334
+925,Something you need to do before you grow vegetables is fertilizing the ground,Something you need to do before you grow vegetables is filling the ground with cement,0.23413163423538208,0.7341316342353821,1,1,True,0.8614460229873657,0.7333333333333333
+926,Orange juice is green.,Orange juice is orange.,0.42628835141658783,0.07371164858341217,0,0,True,0.8740341663360596,0.6
+927,Boats float on the road,Boats float on the river,0.4850722858682275,0.014927714131772518,0,0,True,0.861638605594635,0.6666666666666666
+928,"every time I go to the shops, I buy a dog","every time I go to the shops, I buy something",0.48582780826836824,0.014172191731631756,0,0,True,0.77037513256073,0.7272727272727273
+929,the baseball pitcher hit a home run during the pitch,the baseball pitcher hit a bird during the pitch,0.07487738132476807,0.42512261867523193,0,0,True,0.8557922840118408,0.7
+930,He bought groceries at the store.,He bought groceries at the zoo.,0.44944722205400467,0.05055277794599533,0,1,False,0.7765176296234131,0.7142857142857143
+931,A group of people seated at bed for a meal,A group of people seated at the table for a meal,0.4835390131920576,0.01646098680794239,0,0,True,0.8620617389678955,0.75
+932,Sleeping with makeup on nourishes your skin and makes it healthier.,Sleeping with makeup off is very good for your skin's health.,0.39058345556259155,0.8905834555625916,1,0,False,0.7659491300582886,0.2222222222222222
+933,My dog barked when I came home.,My dog purred when I came home.,0.43353111296892166,0.06646888703107834,0,1,False,0.8920519948005676,0.75
+934,Sally taught mathematics for ninety years since she was 30,Sally taught mathematics for nine years since she was 30,0.14889302849769592,0.3511069715023041,0,0,True,0.9192882776260376,0.8181818181818182
+935,she put a pie in the fridge,she put a rhino in the fridge,0.42953675985336304,0.929536759853363,1,1,True,0.6254098415374756,0.75
+936,He jumped through the happiness,He jumped through the window,0.35977068543434143,0.14022931456565857,0,0,True,0.6338532567024231,0.6666666666666666
+937,Math is very useful these days,Math is not useful these days,0.09115657210350037,0.40884342789649963,0,1,False,0.9019215106964111,0.7142857142857143
+938,Apples are usually green,People are usually green,0.14296185970306396,0.642961859703064,1,1,True,0.6246421337127686,0.6
+939,Orange juice is made of oranges,Orange juice is made of apples,0.4031227305531502,0.09687726944684982,0,1,False,0.8361818790435791,0.7142857142857143
+940,A car engine is usually cooler before driving the car.,A car engine is usually cooler after driving the car.,0.13465970754623413,0.6346597075462341,1,1,True,0.9569799900054932,0.8181818181818182
+941,The train left the station on time,The train waited for a passenger for an hour,0.2512257546186447,0.24877424538135529,0,1,False,0.6171268224716187,0.15384615384615385
+942,my mother switch on the television to watch movie,my mother switch on the radio to watch movie,0.4230147749185562,0.07698522508144379,0,1,False,0.8590717315673828,0.8
+943,"Toothbrush is a small brush with a long handle, used for cleaning the teeth","Toothbrush is a small brush with a long handle, used for cleaning the car",0.11935412883758545,0.6193541288375854,1,1,True,0.9145382642745972,0.8571428571428571
+944,Books are educational.,Empty books are educational.,0.47225362062454224,0.9722536206245422,1,1,True,0.801852285861969,0.4
+945,Each day someone gets younger.,Each day someone gets older.,0.43605712056159973,0.06394287943840027,0,0,True,0.8622535467147827,0.6666666666666666
+946,A runner tries to go a long distance by controlling breath and pace.,Runny eggs can last best by leaving them out in the sun.,0.3685492277145386,0.8685492277145386,1,1,True,0.10081841796636581,0.041666666666666664
+947,beepers are becoming even more popular,smartphones are becoming even more popular,0.46482840925455093,0.035171590745449066,0,0,True,0.7758467793464661,0.7142857142857143
+948,He took his goldfish for a walk,He took his dog for a walk,0.49273696076124907,0.007263039238750935,0,0,True,0.582917332649231,0.75
+949,"When you close a door,  it can be walked through.","When you open a door,  it usually has hinges to keep it from falling off.",0.4666954502463341,0.033304549753665924,0,0,True,0.6257400512695312,0.2631578947368421
+950,She purchased four supermarket tickets.,She purchased four thether tickets.,0.19695943593978882,0.6969594359397888,1,0,False,0.8369947075843811,0.6666666666666666
+951,If you want to go for a jog then you should start singing,If you want to go for a jog then you should start jogging.,0.4583664946258068,0.04163350537419319,0,0,True,0.8292685747146606,0.8461538461538461
+952,he drove to the moon before it closed at 9pm,he drove to the store before it closed at 9pm,0.09722167253494263,0.4027783274650574,0,0,True,0.7391599416732788,0.8181818181818182
+953,"a rock is a bouncy, round object made of rubber","a ball is a bouncy, round object made of rubber",0.1714085340499878,0.3285914659500122,0,0,True,0.8608260154724121,0.8
+954,She went to the bathroom to urinate in the toilet.,She continued watching TV as she urinated in her pants.,0.18389642238616943,0.6838964223861694,1,1,True,0.6383579969406128,0.125
+955,He left his car at a service center for oil change,He left his dog at a service center for an oil change,0.4043189287185669,0.9043189287185669,1,1,True,0.84364253282547,0.7692307692307693
+956,my brother always play football in a swimming tank,my brother is a big fan of football,0.47479612939059734,0.025203870609402657,0,0,True,0.5856505632400513,0.3076923076923077
+957,Plants don't need the sunlight to grow.,Plants need sunlight to grow.,0.4578023739159107,0.04219762608408928,0,0,True,0.8881306052207947,0.7142857142857143
+958,"any dog breed can be taught a trick, playing dead is a trick",any dead dog can learn how to do a trick with his breed,0.2796880602836609,0.7796880602836609,1,1,True,0.8203562498092651,0.3888888888888889
+959,Please turn off the lights? It is shinny,Please turn on the lights? It is shinny,0.02871495485305786,0.47128504514694214,0,1,False,0.9140938520431519,0.7777777777777778
+960,She drove eloquently into the sky.,She danced eloquently into the night.,0.19419103860855103,0.305808961391449,0,0,True,0.6029998064041138,0.5
+961,elephants eat grass and leaves,elephants eat rabbits and rats,0.1590304672718048,0.3409695327281952,0,1,False,0.6039403676986694,0.42857142857142855
+962,Jane loves to eat fresh vegetables.,Jane put a shark on her vegetable.,0.45743972063064575,0.9574397206306458,1,1,True,0.4785575866699219,0.08333333333333333
+963,Malls are found in the sky.,Shawn went to the mall yesterday.,0.450932826846838,0.049067173153162,0,0,True,0.4104069173336029,0.09090909090909091
+964,Blue is a color,Turkey is a color,0.28266090154647827,0.7826609015464783,1,1,True,0.4575216770172119,0.6
+965,She's a yogurt now and doesn't do anything fun,She's a yogi now and doesn't do anything fun,0.072848379611969,0.572848379611969,1,0,False,0.6595951318740845,0.8
+966,Paper comes from tears cried by the planet,Paper comes from trees,0.3670329451560974,0.8670329451560974,1,0,False,0.4574601352214813,0.3333333333333333
+967,He ate an interesting book.,He read an interesting book.,0.4965348627883941,0.0034651372116059065,0,0,True,0.7363219857215881,0.6666666666666666
+968,You are likely to find zebras in an office building,You are likely to find office space in an office building,0.4879422280937433,0.012057771906256676,0,0,True,0.6763591766357422,0.8181818181818182
+969,Pitchers throw the ball from the pitcher's mound to the plate.,Outfielders catch the ball from pitchers.,0.29339101910591125,0.20660898089408875,0,1,False,0.7844288945198059,0.25
+970,He fed the dog kibble.,He fed the dog eucalyptus leaves.,0.3003639578819275,0.8003639578819275,1,1,True,0.5781609416007996,0.5714285714285714
+971,plastic can be transparent,Plastic is not reusable,0.13680395483970642,0.3631960451602936,0,1,False,0.6175667643547058,0.0
+972,a boy rides a bike,a donkey rides a bike,0.4077291786670685,0.09227082133293152,0,1,False,0.6990028619766235,0.6
+973,the sun rises in the west,the sun rises in the east,0.2040613293647766,0.2959386706352234,0,0,True,0.8774522542953491,0.6666666666666666
+974,kids often start speaking when they twelve months old,kids do not learn how to speak until they learn to walk,0.12192749977111816,0.6219274997711182,1,1,True,0.5546133518218994,0.11764705882352941
+975,I cooked the chicken in the refrigerator.,I cooked the chicken in the oven last night.,0.4794845338910818,0.02051546610891819,0,0,True,0.8059855699539185,0.5555555555555556
+976,she likes to sit on babies from time to time,she likes to babysit from time to time,0.30894866585731506,0.19105133414268494,0,0,True,0.7261126041412354,0.5555555555555556
+977,The assistant entered the purchase order into the company system.,The order entered a system by the assistant.,0.2781113386154175,0.7781113386154175,1,1,True,0.7561819553375244,0.3076923076923077
+978,Volcanoes produce snowballs when they erupt.,Volcanoes create lava which is created through high heat temperature.,0.4100506901741028,0.08994930982589722,0,0,True,0.594131350517273,0.06666666666666667
+979,Joey likes to eat poison,Joey likes to eat fruits,0.4786540437489748,0.0213459562510252,0,0,True,0.7612208127975464,0.6666666666666666
+980,The dog was clean after playing in the mud.,The dog got dirty when she played in the mud.,0.23786795139312744,0.7378679513931274,1,0,False,0.8569064736366272,0.35714285714285715
+981,Garry washed his clothes yesterday,humans use gas to wash their clothes,0.41086477041244507,0.9108647704124451,1,1,True,0.33489513397216797,0.09090909090909091
+982,Knives hurt children.,Knives heal children.,0.4353078603744507,0.9353078603744507,1,1,True,0.7768650650978088,0.5
+983,There is a car engine on an airplane,A car runs on roads,0.4143894463777542,0.08561055362224579,0,0,True,0.4048269987106323,0.18181818181818182
+984,Racism is over,Racism is hurtful,0.086213618516922,0.413786381483078,0,0,True,0.89115309715271,0.5
+985,I took notes during class.,I took home the gold during class.,0.02940458059310913,0.5294045805931091,1,1,True,0.5217384099960327,0.5
+986,at night it's easy to find the moon,at night it's easy to find sun,0.2017918825149536,0.7017918825149536,1,1,True,0.7271977663040161,0.6666666666666666
+987,He returned five books to the library,He returned five octopus to the library,0.06126755475997925,0.43873244524002075,0,1,False,0.6556997299194336,0.75
+988,snakes can eat rats,rats can eat snakes,0.42798060178756714,0.07201939821243286,0,1,False,0.9476609230041504,1.0
+989,she wants to drink some water because she is thirsty,she wants to drink some water because she is full,0.0894579291343689,0.4105420708656311,0,1,False,0.880226194858551,0.8
+990,I bought a car in the book store,I bought a history book in the book store,0.09136408567428589,0.5913640856742859,1,0,False,0.7406066656112671,0.7777777777777778
+991,people behave badly if they are angry,people behave softly if they are angry,0.2717445492744446,0.7717445492744446,1,1,True,0.8963889479637146,0.75
+992,all films are real life,a scene is part of a film,0.45550574362277985,0.044494256377220154,0,0,True,0.4717596769332886,0.0
+993,I have both a car and a bike,my car is smaller than my bike,0.13384321331977844,0.36615678668022156,0,1,False,0.5728781223297119,0.18181818181818182
+994,He played a game with children,He played a game with fairies,0.0897357165813446,0.4102642834186554,0,1,False,0.6585342884063721,0.7142857142857143
+995,"If it had rained, you would got wet.","If it is a sunny day, you would got wet.",0.12882393598556519,0.6288239359855652,1,1,True,0.7813555002212524,0.5
+996,ice hockey is a sport,ice hockey is a financial institution,0.16842755675315857,0.33157244324684143,0,1,False,0.7188610434532166,0.5714285714285714
+997,He put water without a container in the freezer for 24 hours,He put a watermelon in the freezer for 24 hours,0.21108177304267883,0.28891822695732117,0,0,True,0.6956465244293213,0.6923076923076923
+998,The desert has sand that you can drink.,"The desert is very dry, so bring water when you go.",0.00030809640884399414,0.499691903591156,0,0,True,0.6742336750030518,0.1875
+999,My friend runs for 2 inches every day.,My friend runs for 2 miles every day.,0.2602692097425461,0.23973079025745392,0,0,True,0.8206539750099182,0.7777777777777778
